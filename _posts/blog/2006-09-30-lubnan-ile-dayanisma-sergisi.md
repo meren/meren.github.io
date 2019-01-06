@@ -13,6 +13,7 @@ blogger_permalink:
 pvc_views:
   - "4316"
 categories:
+  - blogpost
   - Süper Olay
 ---
 <div class="tag_list">

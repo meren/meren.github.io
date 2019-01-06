@@ -9,6 +9,7 @@ permalink: /blog/2010/03/fotograf-dunyasindan-subjektif-haberler-ii/
 pvc_views:
   - "9015"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum
   - Leziz Bağlantı İçerebilir

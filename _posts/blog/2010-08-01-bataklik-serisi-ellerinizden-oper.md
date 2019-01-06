@@ -9,6 +9,7 @@ permalink: /blog/2010/08/bataklik-serisi-ellerinizden-oper/
 pvc_views:
   - "11397"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Süper Olay
 tags:

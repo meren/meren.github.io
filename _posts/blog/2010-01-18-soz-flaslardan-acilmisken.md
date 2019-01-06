@@ -9,6 +9,7 @@ permalink: /blog/2010/01/soz-flaslardan-acilmisken/
 pvc_views:
   - "10465"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Leziz Bağlantı İçerebilir
   - Süper Olay

@@ -9,6 +9,7 @@ permalink: /blog/2011/10/halkin-kendine-yakisani-giymesi-occupy-wall-street/
 pvc_views:
   - "21800"
 categories:
+  - blogpost
   - Düşünce / Yorum
   - Leziz Bağlantı İçerebilir
   - Süper Olay

@@ -13,6 +13,7 @@ blogger_permalink:
 pvc_views:
   - "5446"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ekipman
   - Teknik

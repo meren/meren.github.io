@@ -13,6 +13,7 @@ blogger_permalink:
 pvc_views:
   - "8646"
 categories:
+  - blogpost
   - Leziz Bağlantı İçerebilir
   - Öğreten Adam Modu
 ---

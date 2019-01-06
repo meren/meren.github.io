@@ -9,6 +9,7 @@ permalink: /blog/2009/11/patlican-asparagus-ve-bira/
 pvc_views:
   - "32002"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Fotoğraflı Düzyazı

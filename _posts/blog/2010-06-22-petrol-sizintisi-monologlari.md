@@ -9,6 +9,7 @@ permalink: /blog/2010/06/petrol-sizintisi-monologlari/
 pvc_views:
   - "14112"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum

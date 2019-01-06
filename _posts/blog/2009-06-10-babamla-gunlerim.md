@@ -9,6 +9,7 @@ permalink: /blog/2009/06/babamla-gunlerim/
 pvc_views:
   - "7024"
 categories:
+  - blogpost
   - Leziz Bağlantı İçerebilir
 tags:
   - baba

@@ -9,6 +9,7 @@ permalink: /blog/2009/04/kincaid-lake/
 pvc_views:
   - "20592"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Fotoğraflı Düzyazı
   - Seyahat, Gezmecilik Modu

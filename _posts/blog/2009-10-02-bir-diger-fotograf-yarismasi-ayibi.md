@@ -9,6 +9,7 @@ permalink: /blog/2009/10/bir-diger-fotograf-yarismasi-ayibi/
 pvc_views:
   - "23869"
 categories:
+  - blogpost
   - Düşünce / Yorum
 ---
 Bu seferki ayıbın <del datetime="2009-10-05T21:55:49+00:00"><span title="her olumsuz fiilin yanına 'mimarı' kelimesini koymaktan vazgeçelim artık">mimarı</span></del> mesulü, [Fotografevi](http://fotografevi.com/)&#8230; Olan bitenden [Sina Demiral](http://sinademiral.deviantart.com/)&#8216;dan aldığım e-postaya kadar haberim yoktu. Fotoğrafların ve fotoğrafçıların yarıştırılmasının temelinde yatan motivasyondan felsefi nedenlerle pek hazzetmiyor olsam da bu ayıbı gündeme getirmem gerektiğini düşündüm; çünkü bazen sesimizi çıkarmadığımızda, yapılan ayıptan bizim payımıza da bir şeyler düşüyor.

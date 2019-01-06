@@ -9,6 +9,7 @@ permalink: /blog/2008/07/havadan-sudan-gultekin-cizgen/
 pvc_views:
   - "14832"
 categories:
+  - blogpost
   - Büyük Fotoğrafçılar
   - Düşünce / Yorum
   - Leziz Bağlantı İçerebilir

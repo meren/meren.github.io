@@ -9,6 +9,7 @@ permalink: /blog/2009/11/dogal-isikta-caz/
 pvc_views:
   - "16245"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Ekipman
   - Model Fotoğrafları

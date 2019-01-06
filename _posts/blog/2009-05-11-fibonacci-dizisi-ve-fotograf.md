@@ -9,6 +9,7 @@ permalink: /blog/2009/05/fibonacci-dizisi-ve-fotograf/
 pvc_views:
   - "29714"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Düşünce / Yorum
   - Öğreten Adam Modu

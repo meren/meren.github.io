@@ -9,6 +9,7 @@ permalink: /blog/2009/06/katalin-oc/
 pvc_views:
   - "7379"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - couch surfing
   - Model Fotoğrafları

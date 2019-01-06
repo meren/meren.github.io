@@ -9,6 +9,7 @@ permalink: /blog/2010/06/fotograf-dunyasindan-subjektif-haberler-iv/
 pvc_views:
   - "8843"
 categories:
+  - blogpost
   - Düşünce / Yorum
   - Leziz Bağlantı İçerebilir
   - Subjektif Haberler

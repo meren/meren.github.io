@@ -9,6 +9,7 @@ permalink: /blog/2009/02/bilim-insani-meren/
 pvc_views:
   - "7552"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
 tags:
   - bilim

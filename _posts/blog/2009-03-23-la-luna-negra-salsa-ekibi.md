@@ -9,6 +9,7 @@ permalink: /blog/2009/03/la-luna-negra-salsa-ekibi/
 pvc_views:
   - "8788"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ekipman
   - Model Fotoğrafları

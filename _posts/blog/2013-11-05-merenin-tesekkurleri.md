@@ -9,6 +9,7 @@ permalink: /blog/2013/11/merenin-tesekkurleri/
 pvc_views:
   - "15051"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Süper Olay
 tags:

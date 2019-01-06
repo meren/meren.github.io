@@ -9,6 +9,7 @@ permalink: /blog/2015/02/insan-durumunun-bimodal-dagilimi/
 pvc_views:
   - "12010"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
 ---

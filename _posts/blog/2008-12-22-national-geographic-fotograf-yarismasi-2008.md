@@ -9,6 +9,7 @@ permalink: /blog/2008/12/national-geographic-fotograf-yarismasi-2008/
 pvc_views:
   - "9421"
 categories:
+  - blogpost
   - Leziz Bağlantı İçerebilir
   - Süper Olay
 ---

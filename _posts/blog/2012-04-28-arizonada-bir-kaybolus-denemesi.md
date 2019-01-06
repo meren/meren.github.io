@@ -9,6 +9,7 @@ permalink: /blog/2012/04/arizonada-bir-kaybolus-denemesi/
 pvc_views:
   - "21252"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Seyahat, Gezmecilik Modu
 tags:

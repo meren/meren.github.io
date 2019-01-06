@@ -9,6 +9,7 @@ permalink: /blog/2008/09/avrupada-3800km-bolum-3/
 pvc_views:
   - "7597"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Seyahat, Gezmecilik Modu
 ---

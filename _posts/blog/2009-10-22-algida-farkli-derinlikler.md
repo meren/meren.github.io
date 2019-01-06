@@ -9,6 +9,7 @@ permalink: /blog/2009/10/algida-farkli-derinlikler/
 pvc_views:
   - "9096"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
 tags:
   - 85mm f/1.8

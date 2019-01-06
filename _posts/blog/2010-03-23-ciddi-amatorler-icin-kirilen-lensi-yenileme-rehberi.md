@@ -9,6 +9,7 @@ permalink: /blog/2010/03/ciddi-amatorler-icin-kirilen-lensi-yenileme-rehberi/
 pvc_views:
   - "8950"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum
   - Ekipman

@@ -9,6 +9,7 @@ permalink: /blog/2009/07/bekle-bizi-artvin-geliyoruz/
 pvc_views:
   - "8150"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum
   - Süper Olay

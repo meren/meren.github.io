@@ -9,6 +9,7 @@ permalink: /blog/2014/05/hindistan-cevizi-adasi-hawaiili-gomlekler-ve-mercanlar/
 pvc_views:
   - "12491"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Seyahat, Gezmecilik Modu
 tags:

@@ -9,6 +9,7 @@ permalink: /blog/2009/01/amerikayi-bastan-basa-yurumek/
 pvc_views:
   - "15054"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - couch surfing

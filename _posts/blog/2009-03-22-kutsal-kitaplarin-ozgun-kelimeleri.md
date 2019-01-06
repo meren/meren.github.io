@@ -9,6 +9,7 @@ permalink: /blog/2009/03/kutsal-kitaplarin-ozgun-kelimeleri/
 pvc_views:
   - "9531"
 categories:
+  - blogpost
   - Süper Olay
 ---
 Fotoğraf ile ilgili bir yazı değil bu, fakat &#8220;bir şeylere ilgi duyacak noktaya&#8221; varmış olan herhangi birisinin ilgisini çekebilecek bir materyale sahip olduğunu düşünüyorum. Başta yayınlamayacaktım, fakat olaya böyle bakınca yayınlamaya karar verdim. Mesele şu: Toplamda 3 milyardan daha fazla insanın kutsal kabul ettiği iki kitap olan İncil ve Kur&#8217;an&#8217;a kuş bakışı baksak ne görürüz? Herkesin kendince bir takım yanıtları olduğunu tahmin ediyorum. Fakat bu soruya biraz daha formal bir yanıt vermek de mümkün olabilir mi?

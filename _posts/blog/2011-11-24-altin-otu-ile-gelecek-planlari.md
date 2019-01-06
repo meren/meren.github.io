@@ -9,6 +9,7 @@ permalink: /blog/2011/11/altin-otu-ile-gelecek-planlari/
 pvc_views:
   - "15969"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
 tags:

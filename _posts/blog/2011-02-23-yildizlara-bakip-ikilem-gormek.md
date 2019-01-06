@@ -9,6 +9,7 @@ permalink: /blog/2011/02/yildizlara-bakip-ikilem-gormek/
 pvc_views:
   - "12019"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Seyahat, Gezmecilik Modu
   - Süper Olay

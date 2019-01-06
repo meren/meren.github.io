@@ -9,6 +9,7 @@ permalink: /blog/2011/04/biten-doktoranin-ardindan-notlar/
 pvc_views:
   - "19912"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum
 tags:

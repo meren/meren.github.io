@@ -9,6 +9,7 @@ permalink: /blog/2010/03/new-jerseyde-havanin-kendine-yakisani-giymesi/
 pvc_views:
   - "8528"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Seyahat, Gezmecilik Modu
 tags:

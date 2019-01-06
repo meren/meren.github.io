@@ -9,6 +9,7 @@ permalink: /blog/2012/02/kaplan-kus-insan/
 pvc_views:
   - "14365"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Seyahat, Gezmecilik Modu
 tags:

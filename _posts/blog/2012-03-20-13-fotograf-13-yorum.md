@@ -9,6 +9,7 @@ permalink: /blog/2012/03/13-fotograf-13-yorum/
 pvc_views:
   - "39178"
 categories:
+  - blogpost
   - Büyük Fotoğrafçılar
   - Düşünce / Yorum
   - Sanat Filan Üzerine

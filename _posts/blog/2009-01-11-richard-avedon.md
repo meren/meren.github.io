@@ -9,6 +9,7 @@ permalink: /blog/2009/01/richard-avedon/
 pvc_views:
   - "16142"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Büyük Fotoğrafçılar
   - Düşünce / Yorum

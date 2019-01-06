@@ -13,6 +13,7 @@ blogger_permalink:
 pvc_views:
   - "22150"
 categories:
+  - blogpost
   - Düşünce / Yorum
   - Sanat Filan Üzerine
 ---

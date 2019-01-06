@@ -9,6 +9,7 @@ permalink: /blog/2008/09/fotograflardaki-copyright-ibareleri-uzerine/
 pvc_views:
   - "8899"
 categories:
+  - blogpost
   - Düşünce / Yorum
   - Öğreten Adam Modu
 ---

@@ -9,6 +9,7 @@ permalink: /blog/2010/02/gainesville-florida/
 pvc_views:
   - "5807"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Seyahat, Gezmecilik Modu

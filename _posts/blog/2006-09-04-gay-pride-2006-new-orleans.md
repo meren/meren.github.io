@@ -13,6 +13,7 @@ blogger_permalink:
 pvc_views:
   - "13345"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
 ---
 <p style="text-align: left;">

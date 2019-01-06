@@ -9,6 +9,7 @@ permalink: /blog/2009/01/biscuit-palace-clover-grill/
 pvc_views:
   - "7296"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Süper Olay

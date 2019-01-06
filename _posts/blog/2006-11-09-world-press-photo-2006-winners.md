@@ -13,6 +13,7 @@ blogger_permalink:
 pvc_views:
   - "3979"
 categories:
+  - blogpost
   - Büyük Fotoğrafçılar
   - Leziz Bağlantı İçerebilir
 ---

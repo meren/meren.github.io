@@ -9,6 +9,7 @@ permalink: /blog/2009/11/fotokritik-fotografcisinin-fotograf-sanrisi/
 pvc_views:
   - "24711"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum
   - Leziz Bağlantı İçerebilir

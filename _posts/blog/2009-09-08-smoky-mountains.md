@@ -9,6 +9,7 @@ permalink: /blog/2009/09/smoky-mountains/
 pvc_views:
   - "17180"
 categories:
+  - blogpost
   - Seyahat, Gezmecilik Modu
   - Süper Olay
 tags:

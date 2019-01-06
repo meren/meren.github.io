@@ -9,6 +9,7 @@ permalink: /blog/2010/07/hayat-ne-garip-fransa-filan/
 pvc_views:
   - "9605"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Düğün Fotoğrafları

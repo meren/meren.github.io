@@ -9,6 +9,7 @@ permalink: /blog/2010/04/fotograf-dunyasindan-subjektif-haberler-iii/
 pvc_views:
   - "8551"
 categories:
+  - blogpost
   - Subjektif Haberler
 tags:
   - amerika

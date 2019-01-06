@@ -9,6 +9,7 @@ permalink: /blog/2011/06/woods-holeda-yasam/
 pvc_views:
   - "8424"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
 tags:
   - 20mm f/2.8

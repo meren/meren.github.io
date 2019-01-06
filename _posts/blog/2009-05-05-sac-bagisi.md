@@ -9,6 +9,7 @@ permalink: /blog/2009/05/sac-bagisi/
 pvc_views:
   - "26625"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Süper Olay
 tags:

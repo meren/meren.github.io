@@ -9,6 +9,7 @@ permalink: /blog/2010/05/birisi-paraflas-mi-dedi/
 pvc_views:
   - "17178"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ekipman
   - Süper Olay

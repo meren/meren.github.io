@@ -9,6 +9,7 @@ permalink: /blog/2012/10/kalsiyum-potasyum-ve-cesitli-mineraller/
 pvc_views:
   - "8274"
 categories:
+  - blogpost
   - Kısa Öykü
 ---
 Buluşma işleri hep çok karışıktı. Telefonu kapattıktan sonra aldığı talimatlar doğrultusunda işlek olmayan caddenin sol tarafında durup arabasının dörtlülerini yaktı. Arkadaşı birazdan gelecek, kucaklaşıp eski günlerden konuşacaklardı. _Ya konuşacak bir şey bulamazsak? Ya adam sıkılırsa?_ Yaz kızım: &#8220;_Hayat işte böyle stresli bekleyişlerin arasına sıkışıp kalmıştı_&#8220;.

@@ -9,6 +9,7 @@ permalink: /blog/2009/10/fotografcilara-tavsiyeler/
 pvc_views:
   - "18473"
 categories:
+  - blogpost
   - Düşünce / Yorum
   - Leziz Bağlantı İçerebilir
   - Öğreten Adam Modu

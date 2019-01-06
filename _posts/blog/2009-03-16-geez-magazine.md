@@ -9,6 +9,7 @@ permalink: /blog/2009/03/geez-magazine/
 pvc_views:
   - "7322"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum
   - Leziz Bağlantı İçerebilir

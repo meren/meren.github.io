@@ -9,6 +9,7 @@ permalink: /blog/2008/12/kisa-bir-ara/
 pvc_views:
   - "3625"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
 ---
 15-20 gün boyunca buralarda görünmeyeceğim.

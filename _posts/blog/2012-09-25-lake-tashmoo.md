@@ -9,6 +9,7 @@ permalink: /blog/2012/09/lake-tashmoo/
 pvc_views:
   - "10387"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
 tags:
   - 20mm f/2.8

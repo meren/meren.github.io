@@ -9,6 +9,7 @@ permalink: /blog/2009/06/french-quarter-bugun/
 pvc_views:
   - "6172"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
 tags:

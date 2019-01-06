@@ -9,6 +9,7 @@ permalink: /blog/2010/04/batakligin-gozune-bakip-hmm-demek/
 pvc_views:
   - "10463"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
 tags:

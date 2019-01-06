@@ -9,6 +9,7 @@ permalink: /blog/2012/12/milwaukee-bilim-woods-hole-kedi/
 pvc_views:
   - "13277"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Seyahat, Gezmecilik Modu
 tags:

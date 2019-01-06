@@ -9,6 +9,7 @@ permalink: /blog/2015/12/woods-holeu-da-iyi-bilirdik/
 pvc_views:
   - "14641"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Hayal Ürünü
   - Kısa Öykü

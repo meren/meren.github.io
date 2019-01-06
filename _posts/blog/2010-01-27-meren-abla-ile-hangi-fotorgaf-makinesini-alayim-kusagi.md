@@ -9,6 +9,7 @@ permalink: /blog/2010/01/meren-abla-ile-hangi-fotorgaf-makinesini-alayim-kusagi/
 pvc_views:
   - "12299"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Ekipman
   - Öğreten Adam Modu

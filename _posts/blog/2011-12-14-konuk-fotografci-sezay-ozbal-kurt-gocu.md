@@ -9,6 +9,7 @@ permalink: /blog/2011/12/konuk-fotografci-sezay-ozbal-kurt-gocu/
 pvc_views:
   - "13362"
 categories:
+  - blogpost
   - Düşünce / Yorum
   - Konuk Fotoğrafçı
 tags:

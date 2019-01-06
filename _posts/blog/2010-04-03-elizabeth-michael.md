@@ -9,6 +9,7 @@ permalink: /blog/2010/04/elizabeth-michael/
 pvc_views:
   - "9300"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Düğün Fotoğrafları
 tags:

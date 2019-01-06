@@ -9,6 +9,7 @@ permalink: /blog/2008/11/sukran-gunu/
 pvc_views:
   - "4024"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
 ---
 Doktora pek keyifli gidiyor. Kendi çapımda ufak buluşlar buluyor, daha önce hiç deneyim sahibi olmadığım ve kendimi bir anda içerisinde bulduğum machine learning ve signal processing konuları dahilinde problemler çözmekten git gide daha fazla keyif alıyorum. Araştırmamı ve arada bir yaptıklarımı anlatacağım bir günlük sahibi olsam diye içimden geçiriyorum zaman zaman. Bakalım.. Bu arada eğer &#8220;_bırak o işleri, gel ben senin sponsorun olayım sen de fotoğraf çekmekten başka iş yapma_&#8221; derseniz de bu önerinizi ciddi ciddi düşünürüm; fotoğraf ile dilediğimce haşır neşir olmayı o derece özlüyorum :) Her neyse.

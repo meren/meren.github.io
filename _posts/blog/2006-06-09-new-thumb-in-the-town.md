@@ -13,6 +13,7 @@ blogger_permalink:
 pvc_views:
   - "6777"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
 ---
 Evet. Bir blog sahibi oldum.

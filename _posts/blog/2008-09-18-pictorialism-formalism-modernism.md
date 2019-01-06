@@ -9,6 +9,7 @@ permalink: /blog/2008/09/pictorialism-formalism-modernism/
 pvc_views:
   - "6496"
 categories:
+  - blogpost
   - Düşünce / Yorum
   - Öğreten Adam Modu
   - Sanat Filan Üzerine

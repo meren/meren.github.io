@@ -9,6 +9,7 @@ permalink: /blog/2010/02/2010-yilinda-bisiklet-iskencesi/
 pvc_views:
   - "15204"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Fotoğraflı Düzyazı

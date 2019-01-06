@@ -9,6 +9,7 @@ permalink: /blog/2009/09/katrina-palyacosu/
 pvc_views:
   - "8529"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Model Fotoğrafları

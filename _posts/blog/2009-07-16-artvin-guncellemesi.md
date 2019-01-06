@@ -9,6 +9,7 @@ permalink: /blog/2009/07/artvin-guncellemesi/
 pvc_views:
   - "8930"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Seyahat, Gezmecilik Modu

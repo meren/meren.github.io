@@ -9,6 +9,7 @@ permalink: /blog/2013/02/kar-portakal-ve-yarim-yamalak-bir-hikaye/
 pvc_views:
   - "14304"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Kısa Öykü

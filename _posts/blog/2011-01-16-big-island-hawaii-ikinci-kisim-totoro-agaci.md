@@ -9,6 +9,7 @@ permalink: /blog/2011/01/big-island-hawaii-ikinci-kisim-totoro-agaci/
 pvc_views:
   - "17585"
 categories:
+  - blogpost
   - Seyahat, Gezmecilik Modu
   - Süper Olay
 tags:

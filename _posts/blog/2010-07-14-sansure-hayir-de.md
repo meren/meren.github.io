@@ -9,6 +9,7 @@ permalink: /blog/2010/07/sansure-hayir-de/
 pvc_views:
   - "16755"
 categories:
+  - blogpost
   - Düşünce / Yorum
 tags:
   - ağca kayıhan

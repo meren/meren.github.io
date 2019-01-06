@@ -9,6 +9,7 @@ permalink: /blog/2010/09/balik-tutarak-kuculmek/
 pvc_views:
   - "12629"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum

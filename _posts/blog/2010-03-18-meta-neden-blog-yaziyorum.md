@@ -9,6 +9,7 @@ permalink: /blog/2010/03/meta-neden-blog-yaziyorum/
 pvc_views:
   - "7337"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
 tags:
   - 24-70mm f/2.8

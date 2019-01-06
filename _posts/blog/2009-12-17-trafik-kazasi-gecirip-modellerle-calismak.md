@@ -9,6 +9,7 @@ permalink: /blog/2009/12/trafik-kazasi-gecirip-modellerle-calismak/
 pvc_views:
   - "20359"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Model Fotoğrafları

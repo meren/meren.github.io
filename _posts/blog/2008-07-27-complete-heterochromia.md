@@ -9,6 +9,7 @@ permalink: /blog/2008/07/complete-heterochromia/
 pvc_views:
   - "5867"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
 ---

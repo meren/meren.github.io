@@ -9,6 +9,7 @@ permalink: /blog/2009/10/jason-ricci/
 pvc_views:
   - "9699"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Leziz Bağlantı İçerebilir
   - Model Fotoğrafları

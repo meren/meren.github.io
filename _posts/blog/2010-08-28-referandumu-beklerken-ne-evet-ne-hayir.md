@@ -9,6 +9,7 @@ permalink: /blog/2010/08/referandumu-beklerken-ne-evet-ne-hayir/
 pvc_views:
   - "9899"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum
 tags:

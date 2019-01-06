@@ -9,6 +9,7 @@ permalink: /blog/2010/05/orta-siddetli-sacmaliklar-anonymous/
 pvc_views:
   - "7891"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
 tags:
   - korteks

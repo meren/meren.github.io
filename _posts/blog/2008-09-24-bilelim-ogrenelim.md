@@ -9,6 +9,7 @@ permalink: /blog/2008/09/bilelim-ogrenelim/
 pvc_views:
   - "7791"
 categories:
+  - blogpost
   - Büyük Fotoğrafçılar
   - Düşünce / Yorum
 ---

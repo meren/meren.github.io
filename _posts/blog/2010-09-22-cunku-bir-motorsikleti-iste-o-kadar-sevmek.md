@@ -9,6 +9,7 @@ permalink: /blog/2010/09/cunku-bir-motorsikleti-iste-o-kadar-sevmek/
 pvc_views:
   - "12895"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
 tags:
   - ikinci dünya savaşı

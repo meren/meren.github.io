@@ -9,6 +9,7 @@ permalink: /blog/2009/04/fotograf-elestirmenligi/
 pvc_views:
   - "11101"
 categories:
+  - blogpost
   - Düşünce / Yorum
   - Leziz Bağlantı İçerebilir
   - Öğreten Adam Modu

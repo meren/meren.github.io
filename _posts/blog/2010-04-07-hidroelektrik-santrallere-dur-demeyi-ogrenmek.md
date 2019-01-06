@@ -9,6 +9,7 @@ permalink: /blog/2010/04/hidroelektrik-santrallere-dur-demeyi-ogrenmek/
 pvc_views:
   - "5492"
 categories:
+  - blogpost
   - Düşünce / Yorum
   - Öğreten Adam Modu
 tags:

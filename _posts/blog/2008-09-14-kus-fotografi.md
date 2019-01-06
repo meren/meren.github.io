@@ -9,6 +9,7 @@ permalink: /blog/2008/09/kus-fotografi/
 pvc_views:
   - "4237"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
 ---

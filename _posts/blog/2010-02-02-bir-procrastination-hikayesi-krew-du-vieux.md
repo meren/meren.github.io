@@ -9,6 +9,7 @@ permalink: /blog/2010/02/bir-procrastination-hikayesi-krew-du-vieux/
 pvc_views:
   - "9013"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
 tags:

@@ -9,6 +9,7 @@ permalink: /blog/2009/05/anonim-ortakliklar/
 pvc_views:
   - "7693"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum
   - Leziz Bağlantı İçerebilir

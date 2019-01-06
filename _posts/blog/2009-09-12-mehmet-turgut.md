@@ -9,6 +9,7 @@ permalink: /blog/2009/09/mehmet-turgut/
 pvc_views:
   - "34971"
 categories:
+  - blogpost
   - Büyük Fotoğrafçılar
   - Düşünce / Yorum
 ---

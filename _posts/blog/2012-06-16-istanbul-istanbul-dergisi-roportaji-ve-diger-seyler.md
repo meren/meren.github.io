@@ -9,6 +9,7 @@ permalink: /blog/2012/06/istanbul-istanbul-dergisi-roportaji-ve-diger-seyler/
 pvc_views:
   - "6427"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum
   - Leziz Bağlantı İçerebilir

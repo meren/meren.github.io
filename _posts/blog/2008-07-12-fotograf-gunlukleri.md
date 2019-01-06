@@ -9,6 +9,7 @@ permalink: /blog/2008/07/fotograf-gunlukleri/
 pvc_views:
   - "19000"
 categories:
+  - blogpost
   - Süper Olay
 ---
 Bir süredir fotoğraf ile ilgili günlükleri bir arada toplamak gibi bir gayem vardı. Biraz vakit ayırıp [fotograf-gunlukleri.com](http://fotograf-gunlukleri.com) isimli bir siteyi hayata geçirdim. Bu sitenin temelinde basit olarak kendisinden takip etmesi istenmiş olan kişilerin günlüklerini düzenli olarak kontrol eden, yeni bir günlük girdisi olduğunda ana sayfasını bu girdi ile güncelleyen bir uygulama mevcut.

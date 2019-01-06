@@ -9,6 +9,7 @@ permalink: /blog/2011/12/siradan-bir-pazar-gunu/
 pvc_views:
   - "14393"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
 tags:
   - 20mm f/2.8

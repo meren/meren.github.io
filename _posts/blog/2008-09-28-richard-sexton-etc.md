@@ -9,6 +9,7 @@ permalink: /blog/2008/09/richard-sexton-etc/
 pvc_views:
   - "5974"
 categories:
+  - blogpost
   - Büyük Fotoğrafçılar
   - Düşünce / Yorum
   - Ekipman

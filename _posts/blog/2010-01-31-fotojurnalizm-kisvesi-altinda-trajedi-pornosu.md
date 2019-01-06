@@ -9,6 +9,7 @@ permalink: /blog/2010/01/fotojurnalizm-kisvesi-altinda-trajedi-pornosu/
 pvc_views:
   - "27218"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum
   - Leziz Bağlantı İçerebilir

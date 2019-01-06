@@ -9,6 +9,7 @@ permalink: /blog/2009/12/kucuk-bir-ara/
 pvc_views:
   - "9571"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Düğün Fotoğrafları

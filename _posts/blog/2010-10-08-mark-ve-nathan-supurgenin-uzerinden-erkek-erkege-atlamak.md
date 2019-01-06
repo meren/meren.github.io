@@ -9,6 +9,7 @@ permalink: /blog/2010/10/mark-ve-nathan-supurgenin-uzerinden-erkek-erkege-atlama
 pvc_views:
   - "15447"
 categories:
+  - blogpost
   - Düğün Fotoğrafları
   - Fotoğraflı Düzyazı
   - Süper Olay

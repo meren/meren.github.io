@@ -9,6 +9,7 @@ permalink: /blog/2009/09/oyle-oldu-boyle-oldu/
 pvc_views:
   - "6911"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Leziz Bağlantı İçerebilir

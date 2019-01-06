@@ -9,6 +9,7 @@ permalink: /blog/2009/02/wabi-sabi-ve-fotograf-uzerine/
 pvc_views:
   - "39274"
 categories:
+  - blogpost
   - Düşünce / Yorum
   - Öğreten Adam Modu
   - Sanat Filan Üzerine

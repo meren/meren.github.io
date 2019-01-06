@@ -9,6 +9,7 @@ permalink: /blog/2010/02/super-bowl-esnasinda-french-quarter-new-orleans/
 pvc_views:
   - "13856"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Fotoğraflı Düzyazı
   - Leziz Bağlantı İçerebilir

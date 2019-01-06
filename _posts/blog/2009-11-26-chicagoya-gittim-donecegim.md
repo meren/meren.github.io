@@ -9,6 +9,7 @@ permalink: /blog/2009/11/chicagoya-gittim-donecegim/
 pvc_views:
   - "10424"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
 ---

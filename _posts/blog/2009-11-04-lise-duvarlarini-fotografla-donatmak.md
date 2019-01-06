@@ -9,6 +9,7 @@ permalink: /blog/2009/11/lise-duvarlarini-fotografla-donatmak/
 pvc_views:
   - "6871"
 categories:
+  - blogpost
   - Düşünce / Yorum
   - Süper Olay
 tags:

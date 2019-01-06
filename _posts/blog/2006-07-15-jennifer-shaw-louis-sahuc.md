@@ -13,6 +13,7 @@ blogger_permalink:
 pvc_views:
   - "6656"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Büyük Fotoğrafçılar

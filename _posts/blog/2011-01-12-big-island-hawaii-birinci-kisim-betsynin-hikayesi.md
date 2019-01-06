@@ -9,6 +9,7 @@ permalink: /blog/2011/01/big-island-hawaii-birinci-kisim-betsynin-hikayesi/
 pvc_views:
   - "10445"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Fotoğraflı Düzyazı
   - Kısa Öykü

@@ -9,6 +9,7 @@ permalink: /blog/2010/01/bale-dusmani-bremen-mizikacilari/
 pvc_views:
   - "14851"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Fotoğraflı Düzyazı

@@ -9,6 +9,7 @@ permalink: /blog/2009/09/savas-alani/
 pvc_views:
   - "14947"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Fotoğraflı Düzyazı
   - Leziz Bağlantı İçerebilir

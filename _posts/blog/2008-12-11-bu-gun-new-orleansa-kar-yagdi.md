@@ -9,6 +9,7 @@ permalink: /blog/2008/12/bu-gun-new-orleansa-kar-yagdi/
 pvc_views:
   - "9507"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Süper Olay

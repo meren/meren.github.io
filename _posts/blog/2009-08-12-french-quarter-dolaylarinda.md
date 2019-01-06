@@ -9,6 +9,7 @@ permalink: /blog/2009/08/french-quarter-dolaylarinda/
 pvc_views:
   - "9437"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
 tags:

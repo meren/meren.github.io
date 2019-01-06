@@ -13,6 +13,7 @@ blogger_permalink:
 pvc_views:
   - "25556"
 categories:
+  - blogpost
   - Fotoğraflı Düzyazı
 ---
 Oldum olası evlilik merasimi, düğün, nişan, sünnet gibi aktiviteler içerisinde bulunmaktan rahatsızlık duymuşumdur.

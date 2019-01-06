@@ -13,6 +13,7 @@ blogger_permalink:
 pvc_views:
   - "13802"
 categories:
+  - blogpost
   - Fotoğraflı Düzyazı
 ---
 Doktora yapmanın ne kadar ciddi bir sorumluluk ve ne kadar zorlu bir süreç olduğunu bu süreci yaşamış ya da yaşamakta olanlar bilirler, bilmeyenler ise doktoranın bilimsel literatüre daha önce orada olmayan bir çentik atmak gibi bir hedefi olduğunu düşündüklerinde kolaylıkla mevzunun çapı hakkında fikir sahibi olabilirler&#8230;

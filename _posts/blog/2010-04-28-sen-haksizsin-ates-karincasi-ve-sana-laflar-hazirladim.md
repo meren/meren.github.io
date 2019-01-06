@@ -9,6 +9,7 @@ permalink: /blog/2010/04/sen-haksizsin-ates-karincasi-ve-sana-laflar-hazirladim/
 pvc_views:
   - "12713"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
 tags:
   - ateş karıncası

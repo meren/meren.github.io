@@ -11,6 +11,7 @@ blogger_permalink:
 pvc_views:
   - "22378"
 categories:
+  - blogpost
   - Büyük Fotoğrafçılar
   - Düşünce / Yorum
   - Sanat Filan Üzerine

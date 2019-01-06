@@ -9,6 +9,7 @@ permalink: /blog/2008/09/fotografi-anlamak-projesi/
 pvc_views:
   - "4461"
 categories:
+  - blogpost
   - Leziz Bağlantı İçerebilir
   - Süper Olay
 ---

@@ -9,6 +9,7 @@ permalink: /blog/2012/09/yellowstoneda-atesli-iki-hafta/
 pvc_views:
   - "17703"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Seyahat, Gezmecilik Modu

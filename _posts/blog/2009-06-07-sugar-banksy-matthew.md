@@ -9,6 +9,7 @@ permalink: /blog/2009/06/sugar-banksy-matthew/
 pvc_views:
   - "8805"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum

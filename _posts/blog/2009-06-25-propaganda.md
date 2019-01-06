@@ -9,6 +9,7 @@ permalink: /blog/2009/06/propaganda/
 pvc_views:
   - "10584"
 categories:
+  - blogpost
   - Büyük Fotoğrafçılar
   - Düşünce / Yorum
 tags:

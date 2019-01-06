@@ -13,6 +13,7 @@ blogger_permalink:
 pvc_views:
   - "6512"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Büyük Fotoğrafçılar
   - Düşünce / Yorum

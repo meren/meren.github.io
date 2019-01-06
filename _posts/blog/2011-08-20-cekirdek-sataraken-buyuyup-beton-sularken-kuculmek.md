@@ -9,6 +9,7 @@ permalink: /blog/2011/08/cekirdek-sataraken-buyuyup-beton-sularken-kuculmek/
 pvc_views:
   - "13000"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum
 tags:

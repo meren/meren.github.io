@@ -9,6 +9,7 @@ permalink: /blog/2010/12/uc-proje-yoksul-evsiz-ve-engelli/
 pvc_views:
   - "11327"
 categories:
+  - blogpost
   - Büyük Fotoğrafçılar
   - Düşünce / Yorum
   - Subjektif Haberler

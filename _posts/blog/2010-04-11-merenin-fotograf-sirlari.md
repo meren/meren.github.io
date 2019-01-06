@@ -9,6 +9,7 @@ permalink: /blog/2010/04/merenin-fotograf-sirlari/
 pvc_views:
   - "23530"
 categories:
+  - blogpost
   - Düşünce / Yorum
   - Öğreten Adam Modu
   - Teknik

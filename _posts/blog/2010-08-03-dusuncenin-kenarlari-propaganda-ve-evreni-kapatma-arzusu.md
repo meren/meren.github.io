@@ -9,6 +9,7 @@ permalink: /blog/2010/08/dusuncenin-kenarlari-propaganda-ve-evreni-kapatma-arzus
 pvc_views:
   - "9283"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum
   - Subjektif Haberler

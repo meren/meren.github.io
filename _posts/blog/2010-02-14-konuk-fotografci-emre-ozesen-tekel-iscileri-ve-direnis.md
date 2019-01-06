@@ -9,6 +9,7 @@ permalink: /blog/2010/02/konuk-fotografci-emre-ozesen-tekel-iscileri-ve-direnis/
 pvc_views:
   - "11158"
 categories:
+  - blogpost
   - Fotoğraflı Düzyazı
   - Konuk Fotoğrafçı
 tags:

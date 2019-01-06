@@ -13,6 +13,7 @@ blogger_permalink:
 pvc_views:
   - "5568"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Ekipman
   - Leziz Bağlantı İçerebilir

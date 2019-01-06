@@ -9,6 +9,7 @@ permalink: /blog/2009/02/lomo-lomography-koray-loker/
 pvc_views:
   - "12496"
 categories:
+  - blogpost
   - Süper Olay
   - Teknik
 ---

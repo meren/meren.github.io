@@ -9,6 +9,7 @@ permalink: /blog/2009/05/yirmidokuzuncu-oz-portre/
 pvc_views:
   - "7081"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
 tags:

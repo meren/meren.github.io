@@ -13,6 +13,7 @@ blogger_permalink:
 pvc_views:
   - "10870"
 categories:
+  - blogpost
   - Fotoğraflı Düzyazı
 ---
 Craig Mammano, Katrina Kasırgası&#8217;nın ardından New Orleans&#8217;taki gönüllü yardım çalışmalarına katılan ve bu şehre aşık olup tarihi bir bölge olan North Villere&#8217;de ev alan _oldschool_ bir fotoğrafçı.

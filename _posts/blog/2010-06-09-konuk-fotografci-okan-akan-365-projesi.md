@@ -9,6 +9,7 @@ permalink: /blog/2010/06/konuk-fotografci-okan-akan-365-projesi/
 pvc_views:
   - "32281"
 categories:
+  - blogpost
   - Düşünce / Yorum
   - Konuk Fotoğrafçı
   - Leziz Bağlantı İçerebilir

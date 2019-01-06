@@ -9,6 +9,7 @@ permalink: /blog/2011/09/tiktaalikin-hayal-kirikligi/
 pvc_views:
   - "10161"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
 tags:

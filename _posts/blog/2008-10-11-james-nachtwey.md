@@ -9,6 +9,7 @@ permalink: /blog/2008/10/james-nachtwey/
 pvc_views:
   - "16120"
 categories:
+  - blogpost
   - Büyük Fotoğrafçılar
 ---
 Bu yazıyı günümüzün en önemli savaş fotoğrafçısı olan, kendisini dinlerken yaşadıklarını, gördüklerini ses tonundan okuyabildiğiniz [James Nachtwey](http://www.jamesnachtwey.com/)&#8216;i henüz tanımayanların kendisi ile tanışması için yazdım. Web sitesine gidip fotoğraflarını görüntüleyin, bu utangaç insan hangi hikayeleri bize ulaştırmaya çalışmış araştırın istedim. Bu adam sırf içerisindeki insan sevgisi ve samimi merhamet ile daha çok kişi tarafından tanınmayı hak ediyor bence.

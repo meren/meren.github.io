@@ -9,6 +9,7 @@ permalink: /blog/2009/03/sanatin-koklerine-dogru/
 pvc_views:
   - "4922"
 categories:
+  - blogpost
   - Düşünce / Yorum
   - Sanat Filan Üzerine
 ---

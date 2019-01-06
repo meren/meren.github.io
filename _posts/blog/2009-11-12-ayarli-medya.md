@@ -9,6 +9,7 @@ permalink: /blog/2009/11/ayarli-medya/
 pvc_views:
   - "15423"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum
 ---

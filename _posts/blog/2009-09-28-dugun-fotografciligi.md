@@ -9,6 +9,7 @@ permalink: /blog/2009/09/dugun-fotografciligi/
 pvc_views:
   - "17306"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Düğün Fotoğrafları
   - Düşünce / Yorum

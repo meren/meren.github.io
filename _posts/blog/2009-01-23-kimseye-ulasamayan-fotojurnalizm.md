@@ -9,6 +9,7 @@ permalink: /blog/2009/01/kimseye-ulasamayan-fotojurnalizm/
 pvc_views:
   - "5592"
 categories:
+  - blogpost
   - Düşünce / Yorum
 ---
 Takip ettiğim günlüklerden birisi olan [Magnum günlüğü](http://blog.magnumphotos.com/)&#8216;nde Alessandra Sanguinetti&#8217;nin, İsrail&#8217;in Gazze&#8217;ye girmesine ilişkin bir The New York Times haberinde kullanılan fotoğraf ile ilgili &#8220;Editöryal Sorumluluk&#8221; değerini sorgulayan bir yazısına rastladım. Tahmin ettiğiniz gibi NYT en gözde ve en çok okunan gazetelerden birisi Amerika&#8217;da. Dolayısıyla yaptığı haberlerle kamuoyu vicdanı üzerinde büyük etkisi var. Savaşı anlatan, kimilerine göre muazzam derecede İsrail taraflısı haberinde kullandığı ve Sanguinetti&#8217;yi olan biteni sorgulamaya iten fotoğraf bu:

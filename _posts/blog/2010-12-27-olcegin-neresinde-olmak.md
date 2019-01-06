@@ -9,6 +9,7 @@ permalink: /blog/2010/12/olcegin-neresinde-olmak/
 pvc_views:
   - "11919"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
 tags:
   - 24-70mm f/2.8

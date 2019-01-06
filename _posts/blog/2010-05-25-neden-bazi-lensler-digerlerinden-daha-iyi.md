@@ -9,6 +9,7 @@ permalink: /blog/2010/05/neden-bazi-lensler-digerlerinden-daha-iyi/
 pvc_views:
   - "23893"
 categories:
+  - blogpost
   - Ekipman
   - Öğreten Adam Modu
   - Teknik

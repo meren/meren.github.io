@@ -9,6 +9,7 @@ permalink: /blog/2011/08/2011-falmouth-kosusu/
 pvc_views:
   - "9575"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Süper Olay
 tags:

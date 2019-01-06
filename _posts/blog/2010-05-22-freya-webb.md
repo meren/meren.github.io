@@ -9,6 +9,7 @@ permalink: /blog/2010/05/freya-webb/
 pvc_views:
   - "12748"
 categories:
+  - blogpost
   - Düğün Fotoğrafları
   - Süper Olay
 tags:

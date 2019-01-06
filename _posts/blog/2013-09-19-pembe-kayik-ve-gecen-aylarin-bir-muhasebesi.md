@@ -9,6 +9,7 @@ permalink: /blog/2013/09/pembe-kayik-ve-gecen-aylarin-bir-muhasebesi/
 pvc_views:
   - "14552"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Öğreten Adam Modu

@@ -9,6 +9,7 @@ permalink: /blog/2010/01/konuk-fotografci-aliosman-kurtulus/
 pvc_views:
   - "18409"
 categories:
+  - blogpost
   - Konuk Fotoğrafçı
   - Leziz Bağlantı İçerebilir
 tags:

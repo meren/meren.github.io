@@ -9,6 +9,7 @@ permalink: /blog/2010/01/konuk-fotografci-buraya-adinizi-yazin/
 pvc_views:
   - "15635"
 categories:
+  - blogpost
   - Süper Olay
 ---
 Üç yılı aşkın bir süredir bu sayfalarda fotoğraf ile ilgili yazılar yazıyorum. Geldiği nokta itibarı ile bu günlük, ulaşıyor olmasından ötürü gurur duyduğum bir takipçi kitlesine hitap eder hale geldi. Biraz da bundan cesaret alarak işi bir adım öteye götürmeye karar verdim: Konuk fotoğrafçıları bu sayfalarda ağırlamak, insanları nitelikli çalışmalarından haberdar etmelerine yardımcı olmak istiyorum.

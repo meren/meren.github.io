@@ -13,6 +13,7 @@ blogger_permalink:
 pvc_views:
   - "21863"
 categories:
+  - blogpost
   - Büyük Fotoğrafçılar
   - Düşünce / Yorum
   - Ekipman

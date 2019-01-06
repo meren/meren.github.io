@@ -9,6 +9,7 @@ permalink: /blog/2010/11/cok-yogun-oldugumuzda-ne-yapariz-yasamak-sakaya-gelir-m
 pvc_views:
   - "18081"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Süper Olay
 tags:

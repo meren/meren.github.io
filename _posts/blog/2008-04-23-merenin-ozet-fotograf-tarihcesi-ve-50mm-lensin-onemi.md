@@ -13,6 +13,7 @@ blogger_permalink:
 pvc_views:
   - "12395"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum
   - Ekipman

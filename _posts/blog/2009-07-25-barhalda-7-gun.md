@@ -9,6 +9,7 @@ permalink: /blog/2009/07/barhalda-7-gun/
 pvc_views:
   - "55234"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum
   - Fotoğraflı Düzyazı

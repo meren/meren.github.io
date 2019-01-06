@@ -9,6 +9,7 @@ permalink: /blog/2014/05/eel-pondun-kenarinda-kelimeler-albayim/
 pvc_views:
   - "14766"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
 ---
 Günlerden bir Pazar. Hava nasıl güneşli. Bunca zamandır çanına ot tıkayan insanlardan intikamını Kuzey kutbunu işgal etmişgillere yaşattığı soğuk ile almakta olan Dünya gezegeni, iki fırtına arası mola vermiş.

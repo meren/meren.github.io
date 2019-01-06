@@ -13,6 +13,7 @@ blogger_permalink:
 pvc_views:
   - "5592"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Büyük Fotoğrafçılar
   - Düşünce / Yorum

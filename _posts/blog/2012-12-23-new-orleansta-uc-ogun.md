@@ -9,6 +9,7 @@ permalink: /blog/2012/12/new-orleansta-uc-ogun/
 pvc_views:
   - "15608"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Seyahat, Gezmecilik Modu
 tags:

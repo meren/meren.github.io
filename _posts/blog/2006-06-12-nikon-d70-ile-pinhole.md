@@ -13,6 +13,7 @@ blogger_permalink:
 pvc_views:
   - "15656"
 categories:
+  - blogpost
   - Ekipman
   - Öğreten Adam Modu
   - Sanat Filan Üzerine

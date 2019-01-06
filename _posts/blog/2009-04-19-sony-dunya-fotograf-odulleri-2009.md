@@ -9,6 +9,7 @@ permalink: /blog/2009/04/sony-dunya-fotograf-odulleri-2009/
 pvc_views:
   - "9396"
 categories:
+  - blogpost
   - Leziz Bağlantı İçerebilir
   - Süper Olay
 tags:

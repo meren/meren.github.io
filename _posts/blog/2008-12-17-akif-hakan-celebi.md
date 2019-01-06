@@ -9,6 +9,7 @@ permalink: /blog/2008/12/akif-hakan-celebi/
 pvc_views:
   - "31719"
 categories:
+  - blogpost
   - Büyük Fotoğrafçılar
   - Düşünce / Yorum
   - Leziz Bağlantı İçerebilir

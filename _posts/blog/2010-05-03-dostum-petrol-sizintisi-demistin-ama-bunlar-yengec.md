@@ -9,6 +9,7 @@ permalink: /blog/2010/05/dostum-petrol-sizintisi-demistin-ama-bunlar-yengec/
 pvc_views:
   - "8777"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
 tags:

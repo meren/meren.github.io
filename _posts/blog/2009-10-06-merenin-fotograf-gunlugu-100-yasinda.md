@@ -9,6 +9,7 @@ permalink: /blog/2009/10/merenin-fotograf-gunlugu-100-yasinda/
 pvc_views:
   - "9906"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Leziz Bağlantı İçerebilir
   - Süper Olay

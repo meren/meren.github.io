@@ -9,6 +9,7 @@ permalink: /blog/2010/10/rhode-island-providence-sonbahar-vesaire/
 pvc_views:
   - "14331"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Seyahat, Gezmecilik Modu

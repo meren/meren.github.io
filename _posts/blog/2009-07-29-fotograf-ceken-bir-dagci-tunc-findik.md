@@ -9,6 +9,7 @@ permalink: /blog/2009/07/fotograf-ceken-bir-dagci-tunc-findik/
 pvc_views:
   - "11876"
 categories:
+  - blogpost
   - Leziz Bağlantı İçerebilir
   - Süper Olay
 tags:

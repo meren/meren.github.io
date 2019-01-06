@@ -9,6 +9,7 @@ permalink: /blog/2010/06/baltimore-limanindan-isyanlara-yelken-acmak/
 pvc_views:
   - "11421"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Seyahat, Gezmecilik Modu
 tags:

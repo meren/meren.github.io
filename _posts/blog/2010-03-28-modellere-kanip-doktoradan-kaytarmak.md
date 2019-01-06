@@ -9,6 +9,7 @@ permalink: /blog/2010/03/modellere-kanip-doktoradan-kaytarmak/
 pvc_views:
   - "6920"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Model Fotoğrafları
   - Süper Olay

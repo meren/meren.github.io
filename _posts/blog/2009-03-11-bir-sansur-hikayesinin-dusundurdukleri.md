@@ -9,6 +9,7 @@ permalink: /blog/2009/03/bir-sansur-hikayesinin-dusundurdukleri/
 pvc_views:
   - "11499"
 categories:
+  - blogpost
   - Düşünce / Yorum
   - Öğreten Adam Modu
   - Sanat Filan Üzerine

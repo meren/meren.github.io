@@ -9,6 +9,7 @@ permalink: /blog/2014/07/merenin-bilim-gunlugu/
 pvc_views:
   - "17898"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Bilim Milim
   - Süper Olay

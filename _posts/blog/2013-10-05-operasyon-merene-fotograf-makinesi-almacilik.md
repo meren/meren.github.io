@@ -9,6 +9,7 @@ permalink: /blog/2013/10/operasyon-merene-fotograf-makinesi-almacilik/
 pvc_views:
   - "16298"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
 tags:
   - d700

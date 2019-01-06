@@ -13,6 +13,7 @@ blogger_permalink:
 pvc_views:
   - "6095"
 categories:
+  - blogpost
   - Düşünce / Yorum
   - Fotoğraflı Düzyazı
 ---

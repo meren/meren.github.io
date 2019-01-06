@@ -9,6 +9,7 @@ permalink: /blog/2012/01/boulder-coloradoda-bir-evlilik-merasimi-amanda-ryan/
 pvc_views:
   - "13046"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Düğün Fotoğrafları
 tags:

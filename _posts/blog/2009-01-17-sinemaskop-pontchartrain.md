@@ -9,6 +9,7 @@ permalink: /blog/2009/01/sinemaskop-pontchartrain/
 pvc_views:
   - "9725"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Model Fotoğrafları
   - Teknik

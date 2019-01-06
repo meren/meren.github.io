@@ -9,6 +9,7 @@ permalink: /blog/2010/01/sb-900-sb-600-ve-strobist-nagmeler/
 pvc_views:
   - "26653"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Ekipman

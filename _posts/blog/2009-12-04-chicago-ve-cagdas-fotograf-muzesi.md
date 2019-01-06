@@ -9,6 +9,7 @@ permalink: /blog/2009/12/chicago-ve-cagdas-fotograf-muzesi/
 pvc_views:
   - "11014"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Ben, Meren Bey Nasılım
   - Büyük Fotoğrafçılar

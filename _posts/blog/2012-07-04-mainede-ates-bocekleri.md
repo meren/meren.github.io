@@ -9,6 +9,7 @@ permalink: /blog/2012/07/mainede-ates-bocekleri/
 pvc_views:
   - "10151"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Seyahat, Gezmecilik Modu
 tags:

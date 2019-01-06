@@ -9,6 +9,7 @@ permalink: /blog/2009/01/bir-iyi-bir-kotu-haber/
 pvc_views:
   - "14472"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Leziz Bağlantı İçerebilir
   - Süper Olay

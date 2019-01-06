@@ -9,6 +9,7 @@ permalink: /blog/2009/12/dijital-mudahale-fotografi-oldurur-mu/
 pvc_views:
   - "10572"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum
   - Öğreten Adam Modu

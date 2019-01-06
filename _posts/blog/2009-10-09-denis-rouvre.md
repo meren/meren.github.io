@@ -9,6 +9,7 @@ permalink: /blog/2009/10/denis-rouvre/
 pvc_views:
   - "12893"
 categories:
+  - blogpost
   - Büyük Fotoğrafçılar
   - Düşünce / Yorum
   - Leziz Bağlantı İçerebilir

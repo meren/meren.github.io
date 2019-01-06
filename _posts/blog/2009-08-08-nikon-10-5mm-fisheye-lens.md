@@ -9,6 +9,7 @@ permalink: /blog/2009/08/nikon-10-5mm-fisheye-lens/
 pvc_views:
   - "26646"
 categories:
+  - blogpost
   - Ben, Meren Bey Nasılım
   - Düşünce / Yorum
   - Ekipman

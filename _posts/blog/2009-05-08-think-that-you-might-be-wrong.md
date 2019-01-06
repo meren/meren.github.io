@@ -9,6 +9,7 @@ permalink: /blog/2009/05/think-that-you-might-be-wrong/
 pvc_views:
   - "5420"
 categories:
+  - blogpost
   - Ben Bugün Bunu Çektim
   - Düşünce / Yorum
 tags:
