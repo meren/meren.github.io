@@ -5,7 +5,7 @@ date: 2015-12-29T06:09:40+00:00
 author: A. Murat Eren
 layout: post
 guid: http://meren.org/blog/?p=3196
-permalink: /2015/12/woods-holeu-da-iyi-bilirdik/
+permalink: /blog/2015/12/woods-holeu-da-iyi-bilirdik/
 pvc_views:
   - "14641"
 categories:
