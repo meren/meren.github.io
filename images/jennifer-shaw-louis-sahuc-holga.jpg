@@ -1,0 +1,986 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:website="http://ogp.me/ns/website" lang="en-US" itemscope itemtype="http://schema.org/WebPage" >
+<head>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+<!-- This is Squarespace. --><!-- nic-nichols -->
+<base href="">
+<meta charset="utf-8" />
+<title>Nic Nichols</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53c6a9f5e4b04d74ae28f919/favicon.ico"/>
+<link rel="canonical" href="http://www.nicnichols.com/"/>
+<meta property="og:site_name" content="Nic Nichols"/>
+<meta property="og:title" content="Nic Nichols"/>
+<meta property="og:url" content="http://www.nicnichols.com/"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="Photography of Nic Nichols, holga, lomography, toy camera, film photography"/>
+<meta itemprop="name" content="Nic Nichols"/>
+<meta itemprop="url" content="http://www.nicnichols.com/"/>
+<meta itemprop="description" content="Photography of Nic Nichols, holga, lomography, toy camera, film photography"/>
+<meta name="twitter:title" content="Nic Nichols"/>
+<meta name="twitter:url" content="http://www.nicnichols.com/"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="Photography of Nic Nichols, holga, lomography, toy camera, film photography"/>
+<meta name="description" content="Photography of Nic Nichols, holga, lomography, toy camera, film photography" />
+<script type="text/javascript" src="//use.typekit.net/ik/6RoaESqSUKCzd3g-84IrVa0s6rL0ONlz0v2d3rKFdajfe0SIfFHN4UJLFRbh52jhWD9DjRFcFc9oZQsKwewk5ejojRJDFhbkZs7BMPG0dc8ROAoTjhyzdYw0SaBujW48Sagyjh90jhNlOeUzjhBC-eNDifU0-Awldc8R-eNCSkoDSWmyScmDSeBRZPoRdhXCdc8Rdc8R-eNCSkoRdhXCiaiaOcoTjku0-AFGdhUDO1FUiABkZWF3jAF8OcFzdPUaiaS0dc8Rdc8R-eNCSkoRdhXK2YgkdayTdAIldcNhjPJ4Z1mXiW4yOWgXJ6TliWF8dkuDjAoDH6qJ73IbMg6gJMJ7fbKCMsMMeMC6MKG4f5J7IMMjMkMfH6qJtkGbMg6FJMJ7fbKzMsMMeMb6MKG4fOMgIMMj2KMfH6GJCwbgIMMjgPMfH6GJCSbgIMMj2kMfH6qJnbIbMg6eJMJ7fbK0MsMMegM6MKG4fJCgIMMjgkMfH6qJRMIbMg6sJMJ7fbKTMsMMeM66MKG4fHGgIMMjIKMfH6qJKbIbMg64JMJ7fbKHMsMMegw6MKG4fJZmIMIjMkMfH6qJ6u9bMs6FJMJ7fbKImsMgeMb6MKG4fJmmIMIj2KMfH6qJxubbMs6BJMJ7fbKMmsMgeMv6MKG4fJBmIMIjgkMfH6qJ689bMs6sJMJ7fbKYmsMgeM66MKG4fJymIMIjIKMfH6qJX3vbMy6gJMJ7fbR92UMfeMC6MKG4fF9VIMJjMkMfH6qJu6vbMy6FJMJ7fbRW2UMfeM96MKG4fF6VIMJj2kMfH6qJhbvbMy6YJMJ7fbR-2UMfegI6MKG4fFCVIMJjfPMfH6qJaMvbMy6QJMHbMjzLESSB.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//static.squarespace.com/universal/scripts-compressed/common-be12b3044f1f928bfd78-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//static.squarespace.com/universal/scripts-compressed/common-be12b3044f1f928bfd78-min.en-US.js" ></script><script crossorigin="anonymous" src="//static.squarespace.com/universal/scripts-compressed/performance-9a584ae1b5ee39af2e98-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","rollups":{"squarespace-announcement-bar":{"css":"//static.squarespace.com/universal/styles-compressed/announcement-bar-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/announcement-bar-8dac5ea8db9ee2f1a64f-min.en-US.js"},"squarespace-audio-player":{"css":"//static.squarespace.com/universal/styles-compressed/audio-player-a57b8f3aa31918104f57a068648fbc63-min.css","js":"//static.squarespace.com/universal/scripts-compressed/audio-player-a98fd9ca7c506637848f-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//static.squarespace.com/universal/styles-compressed/blog-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/blog-collection-list-41b7317d14ee3981fa0b-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//static.squarespace.com/universal/styles-compressed/calendar-block-renderer-9acef2d24c6a994fca1a8a82e99e19c3-min.css","js":"//static.squarespace.com/universal/scripts-compressed/calendar-block-renderer-949a97803f43b64a6a1c-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//static.squarespace.com/universal/styles-compressed/chartjs-helpers-9935a41d63cf08ca108505d288c1712e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/chartjs-helpers-441567548b33178df40c-min.en-US.js"},"squarespace-comments":{"css":"//static.squarespace.com/universal/styles-compressed/comments-a7b26c9ae88684f76d210b61d0b0d848-min.css","js":"//static.squarespace.com/universal/scripts-compressed/comments-bc32d6345bffce234c36-min.en-US.js"},"squarespace-commerce-cart":{"js":"//static.squarespace.com/universal/scripts-compressed/commerce-cart-e49362b1601c7acfec8d-min.en-US.js"},"squarespace-dialog":{"css":"//static.squarespace.com/universal/styles-compressed/dialog-7ba230f290b5d21d9871eb06db23b5c9-min.css","js":"//static.squarespace.com/universal/scripts-compressed/dialog-30f662aeac6cfddf98da-min.en-US.js"},"squarespace-events-collection":{"css":"//static.squarespace.com/universal/styles-compressed/events-collection-9acef2d24c6a994fca1a8a82e99e19c3-min.css","js":"//static.squarespace.com/universal/scripts-compressed/events-collection-87426780aab2f3338afc-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//static.squarespace.com/universal/scripts-compressed/form-rendering-utils-da3eeda5a5cdbbbe32a5-min.en-US.js"},"squarespace-forms":{"css":"//static.squarespace.com/universal/styles-compressed/forms-ac7917c174031c937e3df4b3a2005b34-min.css","js":"//static.squarespace.com/universal/scripts-compressed/forms-32e6c8cfcc179803a2ae-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//static.squarespace.com/universal/styles-compressed/gallery-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/gallery-collection-list-80e3ad4a928d8aed2507-min.en-US.js"},"squarespace-image-zoom":{"css":"//static.squarespace.com/universal/styles-compressed/image-zoom-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//static.squarespace.com/universal/scripts-compressed/image-zoom-364b50d4f9aba0a21163-min.en-US.js"},"squarespace-pinterest":{"css":"//static.squarespace.com/universal/styles-compressed/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/pinterest-1982ed2776a633ac6140-min.en-US.js"},"squarespace-popup-overlay":{"css":"//static.squarespace.com/universal/styles-compressed/popup-overlay-7b48efeab9b323dfdb524a256cf61595-min.css","js":"//static.squarespace.com/universal/scripts-compressed/popup-overlay-d1dc8411aea4b2d0b72b-min.en-US.js"},"squarespace-product-quick-view":{"css":"//static.squarespace.com/universal/styles-compressed/product-quick-view-bc8694b75a40e4bd969b662b80ebafb5-min.css","js":"//static.squarespace.com/universal/scripts-compressed/product-quick-view-bdd8cfffe173df8dfbae-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//static.squarespace.com/universal/styles-compressed/products-collection-item-v2-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//static.squarespace.com/universal/scripts-compressed/products-collection-item-v2-a6a32a04d13edb0a888f-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//static.squarespace.com/universal/styles-compressed/products-collection-list-v2-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//static.squarespace.com/universal/scripts-compressed/products-collection-list-v2-ac09cb918b138c11b6c8-min.en-US.js"},"squarespace-search-page":{"css":"//static.squarespace.com/universal/styles-compressed/search-page-ea3e98edb84abbc5e758884f69149027-min.css","js":"//static.squarespace.com/universal/scripts-compressed/search-page-b5175865491ea3c87447-min.en-US.js"},"squarespace-search-preview":{"js":"//static.squarespace.com/universal/scripts-compressed/search-preview-a7aa862cd423ac1991ad-min.en-US.js"},"squarespace-share-buttons":{"js":"//static.squarespace.com/universal/scripts-compressed/share-buttons-6b32919028926b43f0a8-min.en-US.js"},"squarespace-simple-liking":{"css":"//static.squarespace.com/universal/styles-compressed/simple-liking-310d0b18e112f708f91339b11fd55714-min.css","js":"//static.squarespace.com/universal/scripts-compressed/simple-liking-92605f7ba9ea6bcaf673-min.en-US.js"},"squarespace-social-buttons":{"css":"//static.squarespace.com/universal/styles-compressed/social-buttons-26106f808f7e9c739a7f862a408ed039-min.css","js":"//static.squarespace.com/universal/scripts-compressed/social-buttons-3c936e7bbb34d54c3cfc-min.en-US.js"},"squarespace-tourdates":{"css":"//static.squarespace.com/universal/styles-compressed/tourdates-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/tourdates-606469b17ba69a9b693e-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//static.squarespace.com/universal/styles-compressed/website-overlays-manager-df9cddfe3eca22764d10fd6fc4f4ad73-min.css","js":"//static.squarespace.com/universal/scripts-compressed/website-overlays-manager-36f38e521a77126f3760-min.en-US.js"}},"pageType":1,"website":{"id":"53b3f6e9e4b0c28f9b237d2e","identifier":"nic-nichols","websiteType":1,"contentModifiedOn":1537281363858,"cloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/New_York","machineTimeZoneOffset":-18000000,"timeZoneOffset":-18000000,"timeZoneAbbr":"EST","siteTitle":"Nic Nichols","fullSiteTitle":"Nic Nichols","siteDescription":"<p>The film photography of Nic Nichols.</p>","location":{"mapZoom":12.0,"mapLat":39.7704034,"mapLng":-75.57974839999997,"markerLat":39.7704034,"markerLng":-75.57974839999997,"addressTitle":"Mailing address","addressLine1":"PO BOX 111","addressLine2":"Montchanin, De 19710","addressCountry":""},"shareButtonOptions":{"5":true,"6":true,"7":true,"1":true,"8":true,"4":true,"3":true,"2":true},"authenticUrl":"http://www.nicnichols.com","internalUrl":"http://nic-nichols.squarespace.com","baseUrl":"http://www.nicnichols.com","primaryDomain":"www.nicnichols.com","typekitId":"","statsMigrated":false,"screenshotId":"554f7f68e3b3fc839bb5bece65d259722d77535d9f0cfcd2b6d4b91dd3b60362","showOwnerLogin":false},"websiteSettings":{"id":"53b3f6e9e4b0c28f9b237d2f","websiteId":"53b3f6e9e4b0c28f9b237d2e","type":"Personal","subjects":[{"systemSubject":"photo"}],"country":"US","state":"DE","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":true,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"paymentSettings":{},"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"multipleQuantityAllowedForServices":true,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"enableMailingListOptInByDefault":true,"contactLocation":{"mapZoom":12.0,"mapLat":39.7704034,"mapLng":-75.57974839999997,"markerLat":39.7704034,"markerLng":-75.57974839999997,"addressTitle":"Mailing address","addressLine1":"PO BOX 111","addressLine2":"Montchanin, De 19710","addressCountry":""},"businessName":"Nic Nichols","sameAsRetailLocation":false,"businessId":"","isLive":false},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":""},"websiteCloneable":false,"collection":{"title":"Projects","id":"51e6b9c9e4b050adffbe392f","fullUrl":"/","publicCommentCount":0,"type":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"auto-play":"true","galleryAutoPlayDelay":"5","index-transition":"Fade","lightbox-transition":"Slide","product-gallery-auto-crop":"true","product-image-auto-crop":"true","slides-click-through":"false"},"templateId":"51e6b9e4e4b062dafa7099b9","pageFeatures":[1,2,4],"googleMapsStaticApiKey":"AIzaSyBQdch5IcgcQaKNG76sbMQv1MEBEKLeQ-8","impersonatedSession":false,"demoCollections":[{"collectionId":"51e6b9c9e4b050adffbe392f","deleted":false},{"collectionId":"52432b4ee4b059434738969e","deleted":false}],"isFacebookTab":false,"tzData":{"zones":[[-300,"US","E%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}}};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://www.nicnichols.com/work-forte?format=RSS" />
+<script type="application/ld+json">{"url":"http://www.nicnichols.com","name":"Nic Nichols","description":"<p>The film photography of Nic Nichols.</p>","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"Nic Nichols","address":"PO BOX 111\nMontchanin, De 19710","email":"nic@nicnichols.com","@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"PO BOX 111\nMontchanin, De 19710","name":"Nic Nichols","@context":"http://schema.org","@type":"LocalBusiness"}</script><!--[if gte IE 9]> <link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/53b3f6e9e4b0c28f9b237d2e/3/51e6b9e4e4b062dafa7099b9/53b3f8e1e4b0d9a582b19283/1233-05142015/1492807562170/site.css?&filterFeatures=false&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/53b3f6e9e4b0c28f9b237d2e/3/51e6b9e4e4b062dafa7099b9/53b3f8e1e4b0d9a582b19283/1233-05142015/1492807562170/site.css?&filterFeatures=false&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/53b3f6e9e4b0c28f9b237d2e/3/51e6b9e4e4b062dafa7099b9/53b3f8e1e4b0d9a582b19283/1233-05142015/1492807562170/site.css?&filterFeatures=false&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/53b3f6e9e4b0c28f9b237d2e/3/51e6b9e4e4b062dafa7099b9/53b3f8e1e4b0d9a582b19283/1233-05142015/1492807562170/site.css?&filterFeatures=false&part=4"/><![endif]-->
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/53b3f6e9e4b0c28f9b237d2e/3/51e6b9e4e4b062dafa7099b9/53b3f8e1e4b0d9a582b19283/1233-05142015/1492807562170/site.css?&filterFeatures=false&noMedia=true&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/53b3f6e9e4b0c28f9b237d2e/3/51e6b9e4e4b062dafa7099b9/53b3f8e1e4b0d9a582b19283/1233-05142015/1492807562170/site.css?&filterFeatures=false&noMedia=true&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/53b3f6e9e4b0c28f9b237d2e/3/51e6b9e4e4b062dafa7099b9/53b3f8e1e4b0d9a582b19283/1233-05142015/1492807562170/site.css?&filterFeatures=false&noMedia=true&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/53b3f6e9e4b0c28f9b237d2e/3/51e6b9e4e4b062dafa7099b9/53b3f8e1e4b0d9a582b19283/1233-05142015/1492807562170/site.css?&filterFeatures=false&noMedia=true&part=4"/><![endif]-->
+<!--[if !IE]> --><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/53b3f6e9e4b0c28f9b237d2e/3/51e6b9e4e4b062dafa7099b9/53b3f8e1e4b0d9a582b19283/1233-05142015/1492807562170/site.css?&filterFeatures=false"/><!-- <![endif]-->
+<script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+
+</head>
+
+<body id="collection-51e6b9c9e4b050adffbe392f" class="index-transition-fade   auto-play  lightbox-transition-slide content-alignment-center  underline-body-links  sidebar-position-right show-social-icons social-icon-style-normal show-category-navigation    event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link    product-list-titles-under product-list-alignment-left product-item-size-11-square product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing newsletter-style-dark  opentable-style-light small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-default button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-51e6b9c9e4b050adffbe392f collection-type-index collection-layout-default homepage view-list mobile-style-available page-work-forte">
+  <div class="sqs-announcement-bar-dropzone"></div><!--Fixes index page loading issue when announcement bar is enabled -->
+
+  <div id="canvasWrapper">
+
+    <div id="canvas">
+      <div id="headerWrapper">
+
+        
+        <header id="header">
+          <div class="wrapper">
+            <div id="logo" data-content-field="site-title">
+            
+              <h1 class="logo logo-text"><a href="/">Nic Nichols</a></h1>
+            
+
+            <script>
+              Y.use('squarespace-ui-base', function(Y) {
+                Y.one(".logo a").plug(Y.Squarespace.TextShrink, {
+                  parentEl: Y.one('#header'),
+                  triggerWidth: 768
+                });
+              });
+            </script>
+
+            
+            </div>
+
+            <span class="ctrl-button menu"><a class="icon-hamburger"></a></span>
+
+            <div id="topNav">
+              <nav class="main-nav" data-content-field="navigation">
+    <div class="nav-wrapper">
+      <ul class="cf">
+      
+
+        
+          <li class="index-collection active-link folder">
+
+          
+                <!--FOLDER-->
+
+                <div class="folder-parent">
+                  <a aria-haspopup="true" href="/"><span>Projects</span></a>
+                  <div class="folder-child-wrapper">
+                    <ul class="folder-child">
+                      
+
+                        
+                          <li class="">
+                            <a href="/waterscapes/" title="Redscale Streets">
+                              <span>Redscale Streets</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                        
+                          <li class="">
+                            <a href="/alps/" title="County Fair">
+                              <span>County Fair</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                        
+                          <li class="">
+                            <a href="/temples-in-japan/" title="Temples in Japan">
+                              <span>Temples in Japan</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                        
+                          <li class="">
+                            <a href="/pentax-auto-110/" title="Pentax Auto 110">
+                              <span>Pentax Auto 110</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                        
+                          <li class="">
+                            <a href="/port-deposit/" title="Port Deposit">
+                              <span>Port Deposit</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                        
+                          <li class="">
+                            <a href="/woods/" title="New York with a 110 camera">
+                              <span>New York with a 110 camera</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                        
+                          <li class="">
+                            <a href="/white/" title="Holga Flowers">
+                              <span>Holga Flowers</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                        
+                          <li class="">
+                            <a href="/iceland/" title="The Junk Store">
+                              <span>The Junk Store</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                        
+                          <li class="">
+                            <a href="/real-cow-fake-cow/" title="Real Cow Fake Cow">
+                              <span>Real Cow Fake Cow</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                        
+                          <li class="">
+                            <a href="/yokohama/" title="Yokohama">
+                              <span>Yokohama</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                        
+                          <li class="">
+                            <a href="/stuffed-bears/" title="Stuffed Bears">
+                              <span>Stuffed Bears</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                        
+                          <li class="">
+                            <a href="/urban/" title="Redscale Golden Half">
+                              <span>Redscale Golden Half</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                        
+                          <li class="">
+                            <a href="/19-photographs/" title="Air Transport Command">
+                              <span>Air Transport Command</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                        
+                          <li class="">
+                            <a href="/tokyo-streets/" title="Tokyo Streets">
+                              <span>Tokyo Streets</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                        
+                          <li class="">
+                            <a href="/new-gallery-1/" title="Morris Arboretum">
+                              <span>Morris Arboretum</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                        
+                          <li class="">
+                            <a href="/new-gallery/" title="Holga 135">
+                              <span>Holga 135</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                        
+                          <li class="">
+                            <a href="/eastward/" title="Eastern State Penitentiary">
+                              <span>Eastern State Penitentiary</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                        
+                          <li class="">
+                            <a href="/highlands/" title="Route 13">
+                              <span>Route 13</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                        
+                          <li class="">
+                            <a href="/new-york-city-streets/" title="New York City Streets">
+                              <span>New York City Streets</span>
+                            </a>
+                          </li>
+                        
+
+                        
+                      
+
+                    </ul>
+                  </div>
+                </div>
+          
+          </li>
+        
+
+        
+          
+      
+
+        
+          <li class="page-collection">
+
+          
+            <a href="/about/"><span>About</span></a>
+          
+          </li>
+        
+
+        
+          
+      
+    </ul>
+  </div>
+</nav>
+              
+            </div>
+        </div>
+        </header>
+        
+
+        
+          <nav id="mobile-navigation">
+            
+<!--MOBILE-->
+
+  <ul>
+    
+
+    <li class="index-collection  active-link    active-folder">
+      
+        <input type="checkbox" name="folder-toggle-51e6b9c9e4b050adffbe392f" id="folder-toggle-51e6b9c9e4b050adffbe392f" class="folder-toggle-box hidden" />
+        <label for="folder-toggle-51e6b9c9e4b050adffbe392f" class="folder-toggle-label"><a href="/">Projects</a></label>
+
+        <ul>
+          
+            
+            <li class="gallery-collection">
+              <a href="/waterscapes/">Redscale Streets</a>
+            </li>
+            
+            
+          
+            
+            <li class="gallery-collection">
+              <a href="/alps/">County Fair</a>
+            </li>
+            
+            
+          
+            
+            <li class="gallery-collection">
+              <a href="/temples-in-japan/">Temples in Japan</a>
+            </li>
+            
+            
+          
+            
+            <li class="gallery-collection">
+              <a href="/pentax-auto-110/">Pentax Auto 110</a>
+            </li>
+            
+            
+          
+            
+            <li class="gallery-collection">
+              <a href="/port-deposit/">Port Deposit</a>
+            </li>
+            
+            
+          
+            
+            <li class="gallery-collection">
+              <a href="/woods/">New York with a 110 camera</a>
+            </li>
+            
+            
+          
+            
+            <li class="gallery-collection">
+              <a href="/white/">Holga Flowers</a>
+            </li>
+            
+            
+          
+            
+            <li class="gallery-collection">
+              <a href="/iceland/">The Junk Store</a>
+            </li>
+            
+            
+          
+            
+            <li class="gallery-collection">
+              <a href="/real-cow-fake-cow/">Real Cow Fake Cow</a>
+            </li>
+            
+            
+          
+            
+            <li class="gallery-collection">
+              <a href="/yokohama/">Yokohama</a>
+            </li>
+            
+            
+          
+            
+            <li class="gallery-collection">
+              <a href="/stuffed-bears/">Stuffed Bears</a>
+            </li>
+            
+            
+          
+            
+            <li class="gallery-collection">
+              <a href="/urban/">Redscale Golden Half</a>
+            </li>
+            
+            
+          
+            
+            <li class="gallery-collection">
+              <a href="/19-photographs/">Air Transport Command</a>
+            </li>
+            
+            
+          
+            
+            <li class="gallery-collection">
+              <a href="/tokyo-streets/">Tokyo Streets</a>
+            </li>
+            
+            
+          
+            
+            <li class="gallery-collection">
+              <a href="/new-gallery-1/">Morris Arboretum</a>
+            </li>
+            
+            
+          
+            
+            <li class="gallery-collection">
+              <a href="/new-gallery/">Holga 135</a>
+            </li>
+            
+            
+          
+            
+            <li class="gallery-collection">
+              <a href="/eastward/">Eastern State Penitentiary</a>
+            </li>
+            
+            
+          
+            
+            <li class="gallery-collection">
+              <a href="/highlands/">Route 13</a>
+            </li>
+            
+            
+          
+            
+            <li class="gallery-collection">
+              <a href="/new-york-city-streets/">New York City Streets</a>
+            </li>
+            
+            
+          
+        </ul>
+    
+    </li>
+
+    
+
+    <li class="page-collection    ">
+      
+
+      
+        <a href="/about/">About</a>
+      
+      
+
+    
+    </li>
+
+    
+  </ul>
+
+            
+            
+
+            <div id="mobile-location">
+              <div>Mailing address</div>
+              <div>PO BOX 111</div>
+              <div>Montchanin, De 19710</div>
+              <div></div>
+              <div></div>
+            </div>
+
+            
+          </nav>
+        
+      </div>
+
+      <div class="pageWrapper">
+        <section id="page">
+          <div id="mainContent" role="main" data-content-field="main-content">
+
+            
+
+            <div id="fullscreenBrowser" class="galleryWrapper">
+    <div class="slideshow main">
+      
+          <div class="slide content-fill" data-slide-id="53b45ba8e4b0782c86024a2e" data-slide-url="waterscapes">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b57878e4b0c9a85cfa08b4/1404328997450/33270002.jpg" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b57878e4b0c9a85cfa08b4/1404328997450/33270002.jpg" data-image-dimensions="1544x1024" data-image-focal-point="0.5,0.5" alt="33270002.jpg" 
+              
+              data-color-topleft="#22130d"
+              data-weight-topleft="dark"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/waterscapes/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Redscale Streets</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="53b3f70ae4b0f3ce5756f4a3" data-slide-url="alps">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b56cf3e4b0cea0a54d4bf4/1404316263119/ChickenGirl04.jpg" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b56cf3e4b0cea0a54d4bf4/1404316263119/ChickenGirl04.jpg" data-image-dimensions="2500x2720" data-image-focal-point="0.5,0.5" alt="ChickenGirl04.jpg" 
+              
+              data-color-topleft="#050603"
+              data-weight-topleft="dark"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/alps/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">County Fair</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="53b56c12e4b0628e62b32fc8" data-slide-url="temples-in-japan">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b5781ee4b011836afe27f6/1404398641251/R1-00803-0004-2.jpg" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b5781ee4b011836afe27f6/1404398641251/R1-00803-0004-2.jpg" data-image-dimensions="2421x2421" data-image-focal-point="0.5,0.5" alt="R1-00803-0004-2.jpg" 
+              
+              data-color-topleft="#94a5a8"
+              data-weight-topleft="light"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/temples-in-japan/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Temples in Japan</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="53b45ff4e4b029953c075307" data-slide-url="pentax-auto-110">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b45fffe4b0e02f3192223f/1404329983395/Auto110_2Sign.jpg" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b45fffe4b0e02f3192223f/1404329983395/Auto110_2Sign.jpg" data-image-dimensions="1174x736" data-image-focal-point="0.5,0.5" alt="Auto110_2Sign.jpg" 
+              
+              data-color-topleft="#997b48"
+              data-weight-topleft="light"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/pentax-auto-110/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Pentax Auto 110</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="53b45e61e4b0d9a582b217f2" data-slide-url="port-deposit">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b45f6ae4b0d9a582b219a1/1404329695650/MotelSign.jpg" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b45f6ae4b0d9a582b219a1/1404329695650/MotelSign.jpg" data-image-dimensions="2500x2444" data-image-focal-point="0.5,0.5" alt="MotelSign.jpg" 
+              
+              data-color-topleft="#a5b0b1"
+              data-weight-topleft="light"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/port-deposit/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Port Deposit</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="53b45c67e4b005e32110c3f7" data-slide-url="woods">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b45c95e4b01df8bc8cc874/1404329109019/8795680-R1-E004.jpg" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b45c95e4b01df8bc8cc874/1404329109019/8795680-R1-E004.jpg" data-image-dimensions="1523x1228" data-image-focal-point="0.5,0.5" alt="8795680-R1-E004.jpg" 
+              
+              data-color-topleft="#342d29"
+              data-weight-topleft="dark"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/woods/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">New York with a 110 camera</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="53b45a8de4b0782c860247fa" data-slide-url="white">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b5789de4b0c9a85cfa08f2/1404328685673/LongWood01.jpg" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b5789de4b0c9a85cfa08f2/1404328685673/LongWood01.jpg" data-image-dimensions="2500x2560" data-image-focal-point="0.5,0.5" alt="LongWood01.jpg" 
+              
+              data-color-topleft="#0b0d13"
+              data-weight-topleft="dark"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/white/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Holga Flowers</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="53b45b0fe4b0782c8602490a" data-slide-url="iceland">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b45b3de4b0d7c76e67374e/1404328765086/Junk01.jpg" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b45b3de4b0d7c76e67374e/1404328765086/Junk01.jpg" data-image-dimensions="2500x2510" data-image-focal-point="0.5,0.5" alt="Junk01.jpg" 
+              
+              data-color-topleft="#070401"
+              data-weight-topleft="dark"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/iceland/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">The Junk Store</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="53b45db1e4b0c36b0038e7d8" data-slide-url="real-cow-fake-cow">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b57813e4b011836afe27d9/1404329501527/Cows03.jpg" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b57813e4b011836afe27d9/1404329501527/Cows03.jpg" data-image-dimensions="2500x2505" data-image-focal-point="0.5,0.5" alt="Cows03.jpg" 
+              
+              data-color-topleft="#00010b"
+              data-weight-topleft="dark"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/real-cow-fake-cow/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Real Cow Fake Cow</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="53b569aae4b079c929a68797" data-slide-url="yokohama">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b56bb0e4b0628e62b32f4f/1404398023478/R1-00820-0004.jpg" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b56bb0e4b0628e62b32f4f/1404398023478/R1-00820-0004.jpg" data-image-dimensions="2421x2421" data-image-focal-point="0.5,0.5" alt="R1-00820-0004.jpg" 
+              
+              data-color-topleft="#1e0a07"
+              data-weight-topleft="dark"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/yokohama/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Yokohama</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="53b45ccbe4b005e32110c4d0" data-slide-url="stuffed-bears">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b45d3de4b09b2551080726/1404329277332/Bear_01.jpg" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b45d3de4b09b2551080726/1404329277332/Bear_01.jpg" data-image-dimensions="2400x2376" data-image-focal-point="0.5,0.5" alt="Bear_01.jpg" 
+              
+              data-color-topleft="#a9bdc3"
+              data-weight-topleft="light"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/stuffed-bears/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Stuffed Bears</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="53b45980e4b0b67564a680d8" data-slide-url="urban">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b45994e4b0a3e10f18c029/1404328340748/26250003.JPG" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b45994e4b0a3e10f18c029/1404328340748/26250003.JPG" data-image-dimensions="1545x1024" data-image-focal-point="0.5,0.5" alt="26250003.JPG" 
+              
+              data-color-topleft="#04170c"
+              data-weight-topleft="dark"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/urban/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Redscale Golden Half</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="53b445d3e4b0170a61cf459c" data-slide-url="19-photographs">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b4460ce4b0a103a6bf9b8c/1404323340833/atc001.jpg" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b4460ce4b0a103a6bf9b8c/1404323340833/atc001.jpg" data-image-dimensions="2500x2477" data-image-focal-point="0.5,0.5" alt="atc001.jpg" 
+              
+              data-color-topleft="#3789ab"
+              data-weight-topleft="dark"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/19-photographs/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Air Transport Command</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="53b56bb9e4b0628e62b32f56" data-slide-url="tokyo-streets">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b56c0ce4b0628e62b32fbe/1404398552871/26810011.jpg" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b56c0ce4b0628e62b32fbe/1404398552871/26810011.jpg" data-image-dimensions="1545x1024" data-image-focal-point="0.5,0.5" alt="26810011.jpg" 
+              
+              data-color-topleft="#22231f"
+              data-weight-topleft="dark"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/tokyo-streets/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Tokyo Streets</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="53b45a29e4b0782c8602474a" data-slide-url="new-gallery-1">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b45a87e4b0782c860247f0/1404328514288/Fountain.jpg" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b45a87e4b0782c860247f0/1404328514288/Fountain.jpg" data-image-dimensions="2000x2000" data-image-focal-point="0.5,0.5" alt="Fountain.jpg" 
+              
+              data-color-topleft="#2c2f5c"
+              data-weight-topleft="dark"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/new-gallery-1/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Morris Arboretum</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="53b45811e4b02b09f441b8db" data-slide-url="new-gallery">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b5762ae4b081c337af0e85/1404327980211/BellTower+2.JPG" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b5762ae4b081c337af0e85/1404327980211/BellTower+2.JPG" data-image-dimensions="1545x1024" data-image-focal-point="0.5,0.5" alt="BellTower 2.JPG" 
+              
+              data-color-topleft="#a9a9a9"
+              data-weight-topleft="light"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/new-gallery/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Holga 135</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="53b44780e4b0774251dd9d14" data-slide-url="eastward">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b578c1e4b0c9a85cfa0938/1404324139336/ESP_Hallway02a.jpg" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b578c1e4b0c9a85cfa0938/1404324139336/ESP_Hallway02a.jpg" data-image-dimensions="2500x2504" data-image-focal-point="0.5,0.5" alt="ESP_Hallway02a.jpg" 
+              
+              data-color-topleft="#1e1c20"
+              data-weight-topleft="dark"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/eastward/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Eastern State Penitentiary</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="53b456e4e4b02b09f441b6ba" data-slide-url="highlands">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b578d0e4b0c9a85cfa094c/1404327685480/13_01.jpg" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b578d0e4b0c9a85cfa094c/1404327685480/13_01.jpg" data-image-dimensions="2500x2482" data-image-focal-point="0.5,0.5" alt="13_01.jpg" 
+              
+              data-color-topleft="#a4aed6"
+              data-weight-topleft="light"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/highlands/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Route 13</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="53b45f74e4b0d9a582b219af" data-slide-url="new-york-city-streets">
+
+            
+            <img class="loading" data-src="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b5760de4b081c337af0e54/1404329906043/30790006.JPG" data-image="https://static1.squarespace.com/static/53b3f6e9e4b0c28f9b237d2e/t/53b5760de4b081c337af0e54/1404329906043/30790006.JPG" data-image-dimensions="1545x1024" data-image-focal-point="0.0,0.6153846153846154" alt="30790006.JPG" 
+              
+              data-color-topleft="#e0e0e0"
+              data-weight-topleft="light"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/new-york-city-streets/"><span class="folder-title">Projects</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">New York City Streets</span></a>
+            </div>
+
+          </div>
+      
+    </div>
+
+    <script>
+      Y.use('squarespace-ui-base', function(Y) {
+        Y.all(".collection-detail-wrapper a").each(function(node) { 
+          node.plug(Y.Squarespace.TextShrink, {
+            triggerWidth: 768
+          });
+        });
+      });
+    </script>
+            
+    
+    <div class="nav-projects">
+      <div class="arrow-wrapper left">
+        <a class="nav-button prev-slide" data-direction="L"></a>
+      </div>
+      <div class="arrow-wrapper right">
+        <a class="nav-button next-slide" data-direction="R"></a>
+      </div>
+    </div>
+
+  </div>
+
+          </div>
+
+          
+          
+          
+        </section>
+
+        
+        
+        
+        
+      </div>
+    </div>
+  </div>
+
+<script type="text/javascript" src="https://static1.squarespace.com/static/ta/51e6b9c9e4b050adffbe392c/1233/scripts/combo/?site.js"></script>
+<script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script>
+
+</body>
+</html>

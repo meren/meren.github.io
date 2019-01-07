@@ -9,13 +9,14 @@ permalink: /2009/07/still-angry/
 image_value:
   - wp-content/themes/fullscreen/cache/81-Still_Angry_by_evreniz.jpg
 categories:
+  - bloggallery
   - Alone
 tags:
   - color
   - loneliness
 ---
 <div style="width: 810px" class="wp-caption aligncenter">
-  <img title="Still Angry (a little conversation with God)" src="http://lh6.ggpht.com/_x7Afx6WcB1c/SnIPflqxjVI/AAAAAAAAGEg/oEk9f_PHSKo/s800/81-Still_Angry_by_evreniz.jpg" alt="Still Angry (a little conversation with God)" width="800" height="571" />
+  <img title="Still Angry (a little conversation with God)" src="{{ site.baseurl }}/images/still-angry-81-Still_Angry_by_evreniz.jpg" alt="Still Angry (a little conversation with God)" width="800" height="571" />
   
   <p class="wp-caption-text">
     Still Angry (a little conversation with God)

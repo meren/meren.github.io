@@ -1,6 +1,7 @@
 import re
 import sys
 import glob
+from urllib import request
 
 regex = r"(?:(?:https?|ftp|file):\/\/|www\.|ftp\.)(?:\([-A-Z0-9+&@#\/%=~_|$?!:,.]*\)|[-A-Z0-9+&@#\/%=~_|$?!:,.])*(?:\([-A-Z0-9+&@#\/%=~_|$?!:,.]*\)|[A-Z0-9+&@#\/%=~_|$])"
 
@@ -18,7 +19,15 @@ for post_url in glob.glob('*.md'):
 
     print('post: %s' % post_url)
     print(images)
-    print()
-    print()
-    print()
-    sys.exit()
+
+    post_content = open(post_url).read()
+    for url in images:
+        new_url = '../../images/' + images[url]
+        try:
+            request.urlretrieve(url, new_url)
+        except:
+            print('*** This file is not found; %s' % url)
+
+        post_content = post_content.replace(url, '{{ site.baseurl }}/images/' + images[url])
+
+    open(post_url, 'w').write(post_content)
