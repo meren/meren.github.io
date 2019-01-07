@@ -7,6 +7,7 @@ layout: page
 guid: http://meren.org/blog/
 pvc_views:
   - "72100"
+permalink: /blog/imece-usulu-bilim-cinayeti-konferanslari
 ---
 Bu yazıda size bir konferanstan bahsedeceğim. Dilerim vakit ayırıp okur, üzerine düşünür, hatta tepki gösterirsiniz.
 
