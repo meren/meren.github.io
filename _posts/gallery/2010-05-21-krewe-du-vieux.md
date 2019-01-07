@@ -43,7 +43,6 @@ I photographed Krewe Du Vieux, one of the earliest parades of the New Orleans Ma
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-19" class="ngg-gallery-thumbnail-box" style="width:100%;" >
@@ -74,7 +73,6 @@ I photographed Krewe Du Vieux, one of the earliest parades of the New Orleans Ma
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-22" class="ngg-gallery-thumbnail-box" style="width:100%;" >

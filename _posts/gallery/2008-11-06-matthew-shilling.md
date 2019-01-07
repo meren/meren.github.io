@@ -26,7 +26,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 810px" class="wp-caption aligncenter">
   <img title="02" src="{{ site.baseurl }}/images/matthew-shilling-Matthew-5443.jpg" alt="02" width="800" height="531" />
@@ -36,7 +35,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 810px" class="wp-caption aligncenter">
   <img title="03" src="{{ site.baseurl }}/images/matthew-shilling-Matthew-5458.jpg" alt="03" width="800" height="531" />
@@ -46,7 +44,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 810px" class="wp-caption aligncenter">
   <img title="04" src="{{ site.baseurl }}/images/matthew-shilling-Matthew-5538.jpg" alt="04" width="800" height="531" />
@@ -56,7 +53,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 810px" class="wp-caption aligncenter">
   <img title="05" src="{{ site.baseurl }}/images/matthew-shilling-Matthew-5568.jpg" alt="05" width="800" height="531" />

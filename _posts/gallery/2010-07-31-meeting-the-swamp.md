@@ -43,8 +43,6 @@ The only conception about swamps I had was coming from &#8220;[Down by Law](http
 </div>
 </div>
 
-<br style="clear: both" />
-
  
 <div id="ngg-image-4" class="ngg-gallery-thumbnail-box" style="width:100%;" >
 <div class="ngg-gallery-thumbnail" >
@@ -74,7 +72,6 @@ The only conception about swamps I had was coming from &#8220;[Down by Law](http
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-7" class="ngg-gallery-thumbnail-box" style="width:100%;" >
@@ -105,7 +102,6 @@ The only conception about swamps I had was coming from &#8220;[Down by Law](http
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-10" class="ngg-gallery-thumbnail-box" style="width:100%;" >
@@ -136,7 +132,6 @@ The only conception about swamps I had was coming from &#8220;[Down by Law](http
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-13" class="ngg-gallery-thumbnail-box" style="width:100%;" >

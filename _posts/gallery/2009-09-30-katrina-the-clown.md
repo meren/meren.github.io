@@ -48,7 +48,6 @@ Katrina the clown and her advisors. Serious stuff.
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-43" class="ngg-gallery-thumbnail-box" style="width:100%;" >
@@ -79,7 +78,6 @@ Katrina the clown and her advisors. Serious stuff.
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-46" class="ngg-gallery-thumbnail-box" style="width:100%;" >
@@ -110,7 +108,6 @@ Katrina the clown and her advisors. Serious stuff.
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-49" class="ngg-gallery-thumbnail-box" style="width:100%;" >

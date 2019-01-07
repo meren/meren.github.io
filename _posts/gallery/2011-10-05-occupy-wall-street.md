@@ -47,7 +47,6 @@ Perhaps it is time to stop and think what really needs to be done. This is exact
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-528" class="ngg-gallery-thumbnail-box" style="width:100%;" >
@@ -78,7 +77,6 @@ Perhaps it is time to stop and think what really needs to be done. This is exact
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-531" class="ngg-gallery-thumbnail-box" style="width:100%;" >
@@ -109,7 +107,6 @@ Perhaps it is time to stop and think what really needs to be done. This is exact
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-534" class="ngg-gallery-thumbnail-box" style="width:100%;" >
@@ -140,7 +137,6 @@ Perhaps it is time to stop and think what really needs to be done. This is exact
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-537" class="ngg-gallery-thumbnail-box" style="width:100%;" >
@@ -171,7 +167,6 @@ Perhaps it is time to stop and think what really needs to be done. This is exact
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-540" class="ngg-gallery-thumbnail-box" style="width:100%;" >
@@ -202,7 +197,6 @@ Perhaps it is time to stop and think what really needs to be done. This is exact
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-543" class="ngg-gallery-thumbnail-box" style="width:100%;" >

@@ -26,7 +26,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 810px" class="wp-caption aligncenter">
   <a><img title="02" src="{{ site.baseurl }}/images/jason-ricci-DSC_3757.jpg" alt="02" width="800" height="531" /></a>
@@ -36,7 +35,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 810px" class="wp-caption aligncenter">
   <img title="03" src="{{ site.baseurl }}/images/jason-ricci-DSC_3829.jpg" alt="03" width="800" height="531" />
@@ -46,7 +44,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 810px" class="wp-caption aligncenter">
   <img title="04" src="{{ site.baseurl }}/images/jason-ricci-DSC_3840.jpg" alt="04" width="800" height="531" />
@@ -56,7 +53,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 810px" class="wp-caption aligncenter">
   <img title="05" src="{{ site.baseurl }}/images/jason-ricci-DSC_3862.jpg" alt="05" width="800" height="531" />
@@ -66,7 +62,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 810px" class="wp-caption aligncenter">
   <img title="06" src="{{ site.baseurl }}/images/jason-ricci-DSC_3877.jpg" alt="06" width="800" height="531" />
@@ -76,7 +71,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 810px" class="wp-caption aligncenter">
   <img title="07" src="{{ site.baseurl }}/images/jason-ricci-DSC_3893.jpg" alt="07" width="800" height="531" />
@@ -86,7 +80,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 810px" class="wp-caption aligncenter">
   <img title="08" src="{{ site.baseurl }}/images/jason-ricci-DSC_3896.jpg" alt="08" width="800" height="531" />
@@ -96,7 +89,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 810px" class="wp-caption aligncenter">
   <img title="09" src="{{ site.baseurl }}/images/jason-ricci-DSC_3908.jpg" alt="09" width="800" height="531" />
@@ -106,7 +98,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 810px" class="wp-caption aligncenter">
   <img title="10" src="{{ site.baseurl }}/images/jason-ricci-DSC_3918.jpg" alt="10" width="800" height="531" />
@@ -116,7 +107,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 810px" class="wp-caption aligncenter">
   <img title="11" src="{{ site.baseurl }}/images/jason-ricci-DSC_3932.jpg" alt="11" width="800" height="531" />
@@ -126,7 +116,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 810px" class="wp-caption aligncenter">
   <img title="12" src="{{ site.baseurl }}/images/jason-ricci-DSC_3960.jpg" alt="12" width="800" height="531" />
@@ -136,4 +125,3 @@ tags:
   </p>
 </div>
 
-<br class="blank" />

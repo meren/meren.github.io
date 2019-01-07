@@ -45,7 +45,6 @@ The theme of the Super Bowl started to affect life in New Orleans weeks before t
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-27" class="ngg-gallery-thumbnail-box" style="width:100%;" >
@@ -76,7 +75,6 @@ The theme of the Super Bowl started to affect life in New Orleans weeks before t
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-30" class="ngg-gallery-thumbnail-box" style="width:100%;" >
@@ -107,7 +105,6 @@ The theme of the Super Bowl started to affect life in New Orleans weeks before t
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-33" class="ngg-gallery-thumbnail-box" style="width:100%;" >
@@ -138,7 +135,6 @@ The theme of the Super Bowl started to affect life in New Orleans weeks before t
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-36" class="ngg-gallery-thumbnail-box" style="width:100%;" >
@@ -169,7 +165,6 @@ The theme of the Super Bowl started to affect life in New Orleans weeks before t
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-39" class="ngg-gallery-thumbnail-box" style="width:100%;" >

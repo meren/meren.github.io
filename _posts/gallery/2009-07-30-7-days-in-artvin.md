@@ -44,7 +44,6 @@ However, due to the lack of common sense and reason, Turkish government is about
 </a>
 </div>
 
-<br style="clear: both" />
 
  
 <div class="ngg-gallery-thumbnail" >
@@ -69,7 +68,6 @@ However, due to the lack of common sense and reason, Turkish government is about
 </a>
 </div>
 
-<br style="clear: both" />
 
  
 <div class="ngg-gallery-thumbnail" >
@@ -94,7 +92,6 @@ However, due to the lack of common sense and reason, Turkish government is about
 </a>
 </div>
 
-<br style="clear: both" />
 
  
 <div class="ngg-gallery-thumbnail" >
@@ -119,7 +116,6 @@ However, due to the lack of common sense and reason, Turkish government is about
 </a>
 </div>
 
-<br style="clear: both" />
 
  
 <div class="ngg-gallery-thumbnail" >
@@ -144,7 +140,6 @@ However, due to the lack of common sense and reason, Turkish government is about
                             </a>
 </div>
 
-<br style="clear: both" />
 
  
 <div class="ngg-gallery-thumbnail" >

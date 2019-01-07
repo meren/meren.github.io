@@ -22,7 +22,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 810px" class="wp-caption aligncenter">
   <img title="Playground" src="{{ site.baseurl }}/images/childhood-memories-DSC_2102.JPG" alt="Playground" width="800" height="536" />
@@ -32,7 +31,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 830px" class="wp-caption aligncenter">
   <img title="Father" src="{{ site.baseurl }}/images/childhood-memories-03-cocuk-hafizasi-baba.jpg" alt="Father" width="820" height="549" />
@@ -42,7 +40,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 830px" class="wp-caption aligncenter">
   <img title="Hanime" src="{{ site.baseurl }}/images/childhood-memories-02-cocuk-hafizasi-bufenin-ici.jpg" alt="Hanime" width="820" height="549" />
@@ -52,7 +49,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 758px" class="wp-caption aligncenter">
   <img title="Portrait" src="{{ site.baseurl }}/images/childhood-memories-DSC_2147.JPG" alt="Portrait" width="748" height="535" />
@@ -62,7 +58,6 @@ tags:
   </p>
 </div>
 
-<br class="blank" />
 
 <div style="width: 810px" class="wp-caption aligncenter">
   <img title="Entrance" src="{{ site.baseurl }}/images/childhood-memories-DSC_2070.JPG" alt="Entrance" width="800" height="536" />

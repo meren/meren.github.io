@@ -45,7 +45,6 @@ Quiet, and sort of a blue day next to Lake Pontchartrain, New Orleans, Louisiana
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-88" class="ngg-gallery-thumbnail-box" style="width:100%;" >
@@ -76,7 +75,6 @@ Quiet, and sort of a blue day next to Lake Pontchartrain, New Orleans, Louisiana
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-91" class="ngg-gallery-thumbnail-box" style="width:100%;" >
@@ -107,7 +105,6 @@ Quiet, and sort of a blue day next to Lake Pontchartrain, New Orleans, Louisiana
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-94" class="ngg-gallery-thumbnail-box" style="width:100%;" >

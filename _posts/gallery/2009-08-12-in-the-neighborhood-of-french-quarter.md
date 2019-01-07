@@ -47,7 +47,6 @@ Photographs from the oldest and most famous neighborhood in New Orleans, French 
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-53" class="ngg-gallery-thumbnail-box" style="width:100%;" >
@@ -78,7 +77,6 @@ Photographs from the oldest and most famous neighborhood in New Orleans, French 
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-56" class="ngg-gallery-thumbnail-box" style="width:100%;" >
@@ -109,7 +107,6 @@ Photographs from the oldest and most famous neighborhood in New Orleans, French 
 </div>
 </div>
 
-<br style="clear: both" />
 
  
 <div id="ngg-image-59" class="ngg-gallery-thumbnail-box" style="width:100%;" >

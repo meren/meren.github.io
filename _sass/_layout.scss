@@ -109,6 +109,10 @@
         padding-top: 2px;
     }
 
+    .post img {
+        padding-bottom: 20px;
+    }
+
 /* Archive
  * ============================================== */
     .post-list {
@@ -130,6 +134,8 @@
         color: #454545;
         display: block;
         width: 100%;
+        padding-bottom: 20px;
+        line-height: 25px;
 
         @include media-query($on-palm) {
             font-size: 1.33em;
