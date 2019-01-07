@@ -38,7 +38,7 @@ Birkaç gün evvel aşağıdaki [duyuru](http://www.comu.edu.tr/duyurular/deta
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img title="70" src="http://meren.org/wp-content/gallery/blog-photos/comu_duyuru.png" alt="" border="0" />
+      <img title="70" src="{{ site.url }}/images/imece-usulu-bilim-cinayeti-konferanslari-comu_duyuru.png" alt="" border="0" />
     </td>
   </tr>
 </table>
@@ -70,7 +70,7 @@ Sayfadan görüldüğü üzere bu sene ikincisini düzenleniyormuş:
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img src="http://meren.org/wp-content/gallery/blog-photos/ici.png" alt="" border="0" />
+      <img src="{{ site.url }}/images/imece-usulu-bilim-cinayeti-konferanslari-ici.png" alt="" border="0" />
     </td>
   </tr>
 </table>
@@ -85,7 +85,7 @@ Google.
   ***
 </p>
 
-Karlık&#8217;ın adını Google&#8217;da arayınca <a href="http://img822.imageshack.us/img822/303/bekirkarlik.png" rel="lightbox">ilk sonuç</a> Fatih Üniversitesi&#8217;ne gidiyordu. O sayfanın artık Fatih Üniversitesi altında olmadığını görünce içeriğini Google&#8217;ın önbelleğinden görüntüledim. Bekir Hocanın bol yayınlı özgeçmişi çıktı karşıma (bir kopyası [burada](http://www.mevlana.edu.tr/dokuman/Bekir-Karlik.pdf)). Dikkatimi çeken şeylerden ilki neredeyse her yıl başka bir üniversiteye geçmiş olduğu idi. 2000-2001, Ege Üniversitesi. 2001-2004 Bahreyn Üniversitesi. 2004-2005 Haliç Üniversitesi. 2005-2006 Yaşar Üniversitesi. 2005-2009 Fatih Üniversitesi. 2009-2010 Haliç Üniversitesi. 2010- Mevlana Üniversitesi.
+Karlık&#8217;ın adını Google&#8217;da arayınca <a href="{{ site.url }}/images/imece-usulu-bilim-cinayeti-konferanslari-bekirkarlik.png" rel="lightbox">ilk sonuç</a> Fatih Üniversitesi&#8217;ne gidiyordu. O sayfanın artık Fatih Üniversitesi altında olmadığını görünce içeriğini Google&#8217;ın önbelleğinden görüntüledim. Bekir Hocanın bol yayınlı özgeçmişi çıktı karşıma (bir kopyası [burada](http://www.mevlana.edu.tr/dokuman/Bekir-Karlik.pdf)). Dikkatimi çeken şeylerden ilki neredeyse her yıl başka bir üniversiteye geçmiş olduğu idi. 2000-2001, Ege Üniversitesi. 2001-2004 Bahreyn Üniversitesi. 2004-2005 Haliç Üniversitesi. 2005-2006 Yaşar Üniversitesi. 2005-2009 Fatih Üniversitesi. 2009-2010 Haliç Üniversitesi. 2010- Mevlana Üniversitesi.
 
 Listeden rasgele bir makaleyi seçtim.
 
@@ -158,7 +158,7 @@ Okatan&#8217;ın CV&#8217;sinde bir takım enteresanlıklar hemen göze çarpıy
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img title="70" src="http://meren.org/wp-content/gallery/blog-photos/okatan.png" alt="" border="0" />
+      <img title="70" src="{{ site.url }}/images/imece-usulu-bilim-cinayeti-konferanslari-okatan.png" alt="" border="0" />
     </td>
   </tr>
 </table>
@@ -175,7 +175,7 @@ Konferansın diğer eşbaşkanı da böyle. Yüksek olasılıkla kötü bir niye
   ***
 </p>
 
-Diğer taraftan konferansın bir <a href="http://img718.imageshack.us/img718/9527/icicommittee.png" rel="lightbox">bilim komitesi</a> var. Her birini tek tek araştırmadım. Fakat bir kısmını araştırdım. Araştırdıklarımın bir kısmı işinde gücünde, verimli bilim insanları idi. Kimileri WASET bünyesindeki dergilerde tek tük yayınlar yapmıştı. Kimileri özgeçmişlerinde WASET dergilerindeki _hakemliklerini_ akademik faaliyetler olarak listelemişlerdi.
+Diğer taraftan konferansın bir <a href="{{ site.url }}/images/imece-usulu-bilim-cinayeti-konferanslari-icicommittee.png" rel="lightbox">bilim komitesi</a> var. Her birini tek tek araştırmadım. Fakat bir kısmını araştırdım. Araştırdıklarımın bir kısmı işinde gücünde, verimli bilim insanları idi. Kimileri WASET bünyesindeki dergilerde tek tük yayınlar yapmıştı. Kimileri özgeçmişlerinde WASET dergilerindeki _hakemliklerini_ akademik faaliyetler olarak listelemişlerdi.
 
 İçlerinden 7 tanesi ile e-posta yoluyla bağlantıya geçmeyi denedim. 1 tanesi listelendiği enstitüde hiç çalışmamış bir insandı. 6 tanesinin e-posta adreslerine ulaşmayı başardım ve kendilerine &#8220;_bu konferansın komitesinde isminizin yer aldığını biliyor musunuz?_&#8221; diye sordum. Sadece 2 kişiden yanıt geldi. 2&#8217;si de &#8220;_evet, biliyorum_&#8221; dedi.
 
@@ -203,7 +203,7 @@ Biraz Google marifeti ile [bu konferansın ilki](http://www.ikss.org/ici-2004/ic
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img title="70" src="http://meren.org/wp-content/gallery/blog-photos/ici-2004.png" alt="" border="0" />
+      <img title="70" src="{{ site.url }}/images/imece-usulu-bilim-cinayeti-konferanslari-ici-2004.png" alt="" border="0" />
     </td>
   </tr>
 </table>
@@ -219,7 +219,7 @@ Aşağıda, konferansın bilimsel skalanın neresine denk düştüğüne dair so
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img title="70" src="http://meren.org/wp-content/gallery/blog-photos/proceedings.png" alt="" border="0" />
+      <img title="70" src="{{ site.url }}/images/imece-usulu-bilim-cinayeti-konferanslari-proceedings.png" alt="" border="0" />
     </td>
   </tr>
 </table>
@@ -231,7 +231,7 @@ Eğer makaleyi açmadıysanız kaçırmanızı istemem makalenin tamamı işte b
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img title="70" src="http://meren.org/wp-content/gallery/blog-photos/makale.png" alt="" border="0" />
+      <img title="70" src="{{ site.url }}/images/imece-usulu-bilim-cinayeti-konferanslari-makale.png" alt="" border="0" />
     </td>
   </tr>
 </table>

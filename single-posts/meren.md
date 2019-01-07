@@ -7,9 +7,10 @@ layout: page
 guid: http://www.meren.org/blog/?page_id=45
 pvc_views:
   - "41350"
+permalink: /blog/meren
 ---
 <p style="text-align: center;">
-  <img class="aligncenter" alt="" src="https://lh4.googleusercontent.com/-3U80sx7-G3I/TgvtrREHH1I/AAAAAAAAKgo/m788d2qu2tM/s400/day-16-submission.jpg" />
+  <img class="aligncenter" alt="" src="{{ site.url }}/images/meren-day-16-submission.jpg" />
 </p>
 
 Merhaba.

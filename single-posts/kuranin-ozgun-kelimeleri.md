@@ -7,6 +7,7 @@ layout: page
 guid: http://www.meren.org/blog/?page_id=376
 pvc_views:
   - "1210"
+permalink: /blog/kuranin-ozgun-kelimeleri
 ---
 Kur&#8217;an içerisinde hangi sözcük kaç gez geçiyor diye merak etmiştim zamanında, biraz kod yazıp merakımı giderdikten sonra bu listeyi kullanarak bu sözcüklerin hepsi bir arada nasıl görünüyor diye merak ettim. Aşağı yukarı şöyle bir şey yaptım:
 
@@ -15,7 +16,7 @@ Diyanet İşleri&#8217;nin Türkçe çevirisinin bir kopyasını edindim. Toplam
 <table border="0" width="100%">
   <tr>
     <td align="center">
-      <a href="http://meren.org/tmp/kuran.png"><img src="http://meren.org/tmp/kuran.png" border="0" alt="" width="800" /></a>
+      <a href="{{ site.url }}/images/kuranin-ozgun-kelimeleri-kuran.png"><img src="{{ site.url }}/images/kuranin-ozgun-kelimeleri-kuran.png" border="0" alt="" width="800" /></a>
     </td>
   </tr>
 </table>

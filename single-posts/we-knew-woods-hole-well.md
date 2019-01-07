@@ -7,6 +7,7 @@ layout: page
 guid: http://meren.org/blog/?page_id=3292
 pvc_views:
   - "308"
+permalink: /blog/we-knew-woods-hole-well
 ---
 He took tiny steps on moist planks of the old pier. While he was walking towards the end, the quiet and gray town watched its inhabitant underneath a modest fog with its usual indifference. Planks are just about one foot wide. In these situations, it is clearly forbidden to have one foot put on two planks. People who look may have taken him seriously. But he was a squirrel stuck in a human body.
 
@@ -15,7 +16,7 @@ It was neither warm nor cold that day. He took his hands outside of his pockets&
 &#8220;_They &#8216;knew&#8217; the deceased &#8216;well&#8217;_&#8220;, said the priest to herself. She filled her lungs as if she was going to say something in protest, but then changed her mind. The community was not ready for certain things. _So many of us died waiting for these people to be finally ready for certain things, isn&#8217;t it enough already!?_ It was true. Many people had died on this planet. Most of them had passed away while they were waiting for others, too. You could ask the priest: she had buried most of them. But her hands were bound. In fact it was only the deceased who had his both arms on both sides in the entire village: there was such a sweet comfort in being a deceased. He finally reached to the end of the pier. Click.
 
 <p style="text-align: center;">
-  <a href="http://meren.org/blog/wp-content/uploads/2015/12/eel-pond.jpg"><img class="aligncenter  wp-image-3243" alt="eel-pond" src="http://meren.org/blog/wp-content/uploads/2015/12/eel-pond.jpg" width="900" srcset="https://meren.org/blog/wp-content/uploads/2015/12/eel-pond.jpg 1600w, https://meren.org/blog/wp-content/uploads/2015/12/eel-pond-900x506.jpg 900w" sizes="(max-width: 1600px) 100vw, 1600px" /></a>
+  <a href="{{ site.url }}/images/we-knew-woods-hole-well-eel-pond.jpg"><img class="aligncenter  wp-image-3243" alt="eel-pond" src="{{ site.url }}/images/we-knew-woods-hole-well-eel-pond.jpg" width="900" srcset="{{ site.url }}/images/we-knew-woods-hole-well-eel-pond.jpg 1600w, {{ site.url }}/images/we-knew-woods-hole-well-eel-pond-900x506.jpg 900w" sizes="(max-width: 1600px) 100vw, 1600px" /></a>
 </p>
 
 He looked at the boats floating on the calm water, which were left behind by the summer people. His gaze skipped towards the empty houses behind them. Empty houses, empty boats. _What are you doing in this empty village, kiddo?_ What? :) In Woods Hole it was not acceptable to respond to questions with questions. _So?_ Sassy, sticky questions that don&#8217;t go away without an answer. He attempted to respond. He couldn&#8217;t. We can&#8217;t even find answers to our own questions. Yet another win for questions. Questions: 1, answers: 0. See, winning was within the realm of possibilities after all. <em style="line-height: 1.5em;">We couldn&#8217;t even do as well as the questions we ask, sire</em>. If we are going to talk about the things we haven&#8217;t been able to do well, there are more striking examples to begin with, but the time that was allocated for us in Woods Hole has come to an end. _What? Is this really all they allocated for us?_ A couple of people in the conglomeration looked at their watches (&#8220;_well, it is a pretty good amount of time they were given in fact_&#8220;, one of them thought to himself).
@@ -41,7 +42,7 @@ Dear diary, I decided to leave Woods Hole short after I took the photograph abov
 Before I left for Chicago, I was putting together my office, where I spent most of my days in my 4 years stay in Woods Hole:
 
 <p style="text-align: center;">
-  <img class="aligncenter  wp-image-3261" alt="france-1" src="http://meren.org/blog/wp-content/uploads/2015/12/france-1.jpg" width="900" height="506" srcset="https://meren.org/blog/wp-content/uploads/2015/12/france-1.jpg 1200w, https://meren.org/blog/wp-content/uploads/2015/12/france-1-900x506.jpg 900w" sizes="(max-width: 900px) 100vw, 900px" />
+  <img class="aligncenter  wp-image-3261" alt="france-1" src="{{ site.url }}/images/we-knew-woods-hole-well-france-1.jpg" width="900" height="506" srcset="{{ site.url }}/images/we-knew-woods-hole-well-france-1.jpg 1200w, {{ site.url }}/images/we-knew-woods-hole-well-france-1-900x506.jpg 900w" sizes="(max-width: 900px) 100vw, 900px" />
 </p>
 
 I had written this that day:
@@ -53,7 +54,7 @@ I had written this that day:
 And my life _did_ fit into the back seat of my car, by the way:
 
 <p style="text-align: center;">
-  <img class="aligncenter  wp-image-3263" alt="france-4" src="http://meren.org/blog/wp-content/uploads/2015/12/france-4.jpg" width="900" srcset="https://meren.org/blog/wp-content/uploads/2015/12/france-4.jpg 1200w, https://meren.org/blog/wp-content/uploads/2015/12/france-4-900x506.jpg 900w" sizes="(max-width: 1200px) 100vw, 1200px" />
+  <img class="aligncenter  wp-image-3263" alt="france-4" src="{{ site.url }}/images/we-knew-woods-hole-well-france-4.jpg" width="900" srcset="{{ site.url }}/images/we-knew-woods-hole-well-france-4.jpg 1200w, {{ site.url }}/images/we-knew-woods-hole-well-france-4-900x506.jpg 900w" sizes="(max-width: 1200px) 100vw, 1200px" />
 </p>
 
 Thanks to your occasional e-mails, this blog has always been somewhere in my mind. In fact I even prepared a mixed tape (hehe) for you while I was driving to Chicago, but I just couldn&#8217;t put it online until now. Here I am today, and here is your mixed tape:

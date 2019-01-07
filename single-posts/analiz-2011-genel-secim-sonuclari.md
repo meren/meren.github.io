@@ -27,7 +27,7 @@ permalink: /blog/analiz-2011-genel-secim-sonuclari
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/secim-2011/uc-sehir.png" border="0/" />
+      <img alt="" src="{{ site.url }}/images/analiz-2011-genel-secim-sonuclari-uc-sehir.png" border="0/" />
     </td>
   </tr>
 </table>
@@ -39,7 +39,7 @@ Her şehri tek renk ile boyamaya bir son verdiğimizde, Türkiye&#8217;nin siyas
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <a href="http://meren.org/wp-content/gallery/secim-2011/turkiye-2011.png"><img alt="" src="http://meren.org/wp-content/gallery/secim-2011/turkiye-2011-800px.png" border="0/" /></a>
+      <a href="{{ site.url }}/images/analiz-2011-genel-secim-sonuclari-turkiye-2011.png"><img alt="" src="{{ site.url }}/images/analiz-2011-genel-secim-sonuclari-turkiye-2011-800px.png" border="0/" /></a>
     </td>
   </tr>
 </table>
@@ -50,14 +50,14 @@ Yukarıdaki haritada göze ilk çarpan, MHP&#8217;nin birinci parti olarak çık
   ***
 </p>
 
-Seçime dair en çok merak ettiğim konulardan birisi seçim sonuçlarının 2010 yılındaki referandum sonuçları ile ne kadar tutarlı olduğu idi. Bunu test etmek için referandumun ardından yazdığım [analiz yazısı](http://meren.org/blog/rakamlarla-2010-referandumu-sonuclari/)nda ortaya çıkan [sıcaklık haritası](http://meren.org/wp-content/gallery/referandum/04.png "Referandumun sıcaklık haritası")nda ezici bir çoğunlukla &#8216;Evet&#8217; ya da ezici bir çoğunlıkla &#8216;Hayır&#8217; demiş, ya da ciddi bir çoğunlukla referandumu boykot etmiş olan illerin genel seçimlerin sonuçları ışığında nasıl kümelendiklerini görselleştirdim:
+Seçime dair en çok merak ettiğim konulardan birisi seçim sonuçlarının 2010 yılındaki referandum sonuçları ile ne kadar tutarlı olduğu idi. Bunu test etmek için referandumun ardından yazdığım [analiz yazısı](http://meren.org/blog/rakamlarla-2010-referandumu-sonuclari/)nda ortaya çıkan [sıcaklık haritası]({{ site.url }}/images/analiz-2011-genel-secim-sonuclari-04.png "Referandumun sıcaklık haritası")nda ezici bir çoğunlukla &#8216;Evet&#8217; ya da ezici bir çoğunlıkla &#8216;Hayır&#8217; demiş, ya da ciddi bir çoğunlukla referandumu boykot etmiş olan illerin genel seçimlerin sonuçları ışığında nasıl kümelendiklerini görselleştirdim:
 
-> Güncelleme (14/06/2011): Gelen eleştiriler üzerine sıcaklık haritasını nasıl oluşturduğumu biraz daha anlaşılır şekilde açıklamaya çalışmaya karar verdim (ihtiyacı olmayanlar bu kutucuğu atlayabilirler). Sıcaklık haritaları başta kimilerine karışık görünse de bir kez çözünce anlaması ve okuması kolay bir veri ifade şekli. Önce aşağıdaki haritayı biraz açayım, sonra nasıl oluşturduğumu anlatayım. Sıcaklık haritasının yeşilli-kırmızılı kısmına baktığınızda düşey eksende parti isimlerini, yatay eksende ise şehir isimlerini görüyorsunuz. Bir partinin ismi ile bir şehrin kesiştiği kutucukta ise yeşil ile kırmızı arasnında bir renk var. Bir dikdörtgenin içerisindeki renk çok kırmızı olunca partiye tekabül eden oy yüzdesi 0′a, çok yeşil olunca ise yüzde 100′e yaklaşıyor diye düşünmeli ve sayısal olarak &#8220;Yeşil > Siyah > Kırmızı&#8221; şeklinde bir renk skalası hayal etmelisiniz. Bir diğer deyişle bir parti ve bir ilin kesiştiği kutucuktaki renk kırmızı ise o partinin o ilde aldığı oy yüzdesi diğer partilere göre çok düşük, yeşil ise o partinin o ilde aldığı oy yüzdesi diğer partilere göre çok yüksek demek oluyor. Yukarıdaki dendrogram (tepedeki çizgiler) ise illerin verdikleri oylardaki benzerliğe, bir diğer deyişle &#8216;oy profillerine&#8217; göre nasıl kümelendiklerini gösteriyor. Neye baktığımız böyle, nasıl hazırladığımı ise burada anlatıyorum: Yukarıda bağlantısını verdiğim ve referandumdan kalma [sıcaklık haritası](http://meren.org/wp-content/gallery/referandum/04.png)na baktığınızda o haritada kimi illerin tercihlerinde nispeten kararsız, kimi illerin ise son derece kararlı olduğunu görüyorsunuz. İşte bu sıcaklık haritasını, o haritadaki _kararlı_ illeri alarak hazırladım. Çok büyük çoğunluğunun referanduma &#8216;Evet&#8217; dediği illeri açık mavi, &#8216;Hayır&#8217; demiş olanlarını kırmızı, referandumu boykot etmiş olan illeri ise yeşil ile işaretledim (bu renkleri dendrogramın altındaki barda görüyorsunuz). Daha sonra bu _işaretlemelerden faydalanmaksızın_ tüm illeri _seçimde kullandıkları oylara göre_ kümeledim ve üç ana grup oluştu (bunu yaparken oy yüzdelerinden dört boyutlu vektörler hazırlayıp kümeleme algoritması olarak da maximum linkage hierarchical clustering algoritması kullandım). Bu işaretlemelerden faydalanmaksızın kümeleme yapmış olmama rağmen, oy profillerine göre oluşan kümeler ile referandumda olan biteni bize anlatsın diye hazırladığım işaret barı (dendrogramın hemen altındaki bar) son derece manalı şekilde örtüştü. Aşağıya da küçük Türkiye haritalarında bu işaretlerin dağılımını koyarak bu verinin coğrafi yakınlık verisi ile örtüştüğünü de gösterdim. Buradan çıkan birkaç sonuçtan birisi referandumun seçimin rövanşı olduğu ve referandumdan bu yana Türk insanının -CHP&#8217;nin biraz zayıflaması dışında- çok da fazla değişmediği, diğeri ise Türkiye&#8217;deki coğrafi ve siyasi örüntülerin ne kadar istikrarlı kümeler oluşturduğu.
+> Güncelleme (14/06/2011): Gelen eleştiriler üzerine sıcaklık haritasını nasıl oluşturduğumu biraz daha anlaşılır şekilde açıklamaya çalışmaya karar verdim (ihtiyacı olmayanlar bu kutucuğu atlayabilirler). Sıcaklık haritaları başta kimilerine karışık görünse de bir kez çözünce anlaması ve okuması kolay bir veri ifade şekli. Önce aşağıdaki haritayı biraz açayım, sonra nasıl oluşturduğumu anlatayım. Sıcaklık haritasının yeşilli-kırmızılı kısmına baktığınızda düşey eksende parti isimlerini, yatay eksende ise şehir isimlerini görüyorsunuz. Bir partinin ismi ile bir şehrin kesiştiği kutucukta ise yeşil ile kırmızı arasnında bir renk var. Bir dikdörtgenin içerisindeki renk çok kırmızı olunca partiye tekabül eden oy yüzdesi 0′a, çok yeşil olunca ise yüzde 100′e yaklaşıyor diye düşünmeli ve sayısal olarak &#8220;Yeşil > Siyah > Kırmızı&#8221; şeklinde bir renk skalası hayal etmelisiniz. Bir diğer deyişle bir parti ve bir ilin kesiştiği kutucuktaki renk kırmızı ise o partinin o ilde aldığı oy yüzdesi diğer partilere göre çok düşük, yeşil ise o partinin o ilde aldığı oy yüzdesi diğer partilere göre çok yüksek demek oluyor. Yukarıdaki dendrogram (tepedeki çizgiler) ise illerin verdikleri oylardaki benzerliğe, bir diğer deyişle &#8216;oy profillerine&#8217; göre nasıl kümelendiklerini gösteriyor. Neye baktığımız böyle, nasıl hazırladığımı ise burada anlatıyorum: Yukarıda bağlantısını verdiğim ve referandumdan kalma [sıcaklık haritası]({{ site.url }}/images/analiz-2011-genel-secim-sonuclari-04.png)na baktığınızda o haritada kimi illerin tercihlerinde nispeten kararsız, kimi illerin ise son derece kararlı olduğunu görüyorsunuz. İşte bu sıcaklık haritasını, o haritadaki _kararlı_ illeri alarak hazırladım. Çok büyük çoğunluğunun referanduma &#8216;Evet&#8217; dediği illeri açık mavi, &#8216;Hayır&#8217; demiş olanlarını kırmızı, referandumu boykot etmiş olan illeri ise yeşil ile işaretledim (bu renkleri dendrogramın altındaki barda görüyorsunuz). Daha sonra bu _işaretlemelerden faydalanmaksızın_ tüm illeri _seçimde kullandıkları oylara göre_ kümeledim ve üç ana grup oluştu (bunu yaparken oy yüzdelerinden dört boyutlu vektörler hazırlayıp kümeleme algoritması olarak da maximum linkage hierarchical clustering algoritması kullandım). Bu işaretlemelerden faydalanmaksızın kümeleme yapmış olmama rağmen, oy profillerine göre oluşan kümeler ile referandumda olan biteni bize anlatsın diye hazırladığım işaret barı (dendrogramın hemen altındaki bar) son derece manalı şekilde örtüştü. Aşağıya da küçük Türkiye haritalarında bu işaretlerin dağılımını koyarak bu verinin coğrafi yakınlık verisi ile örtüştüğünü de gösterdim. Buradan çıkan birkaç sonuçtan birisi referandumun seçimin rövanşı olduğu ve referandumdan bu yana Türk insanının -CHP&#8217;nin biraz zayıflaması dışında- çok da fazla değişmediği, diğeri ise Türkiye&#8217;deki coğrafi ve siyasi örüntülerin ne kadar istikrarlı kümeler oluşturduğu.
 
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/secim-2011/referandum-secim-karsilastirmasi.png" border="0/" />
+      <img alt="" src="{{ site.url }}/images/analiz-2011-genel-secim-sonuclari-referandum-secim-karsilastirmasi.png" border="0/" />
     </td>
   </tr>
 </table>
@@ -69,7 +69,7 @@ Shannon çeşitlilik endeksi ile çeşitlilik analizi sonuçları da AKP&#8217;n
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/secim-2011/shannon-diversity-secim-referandum.png" border="0/" />
+      <img alt="" src="{{ site.url }}/images/analiz-2011-genel-secim-sonuclari-shannon-diversity-secim-referandum.png" border="0/" />
     </td>
   </tr>
 </table>
@@ -81,7 +81,7 @@ Referandum ışığında son bir bakış açısı: Aşağıdaki, referandumda is
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/secim-2011/referandum-parti-karsilastirmasi.png" border="0/" />
+      <img alt="" src="{{ site.url }}/images/analiz-2011-genel-secim-sonuclari-referandum-parti-karsilastirmasi.png" border="0/" />
     </td>
   </tr>
 </table>
@@ -111,7 +111,7 @@ Yıldız, Sivri ve Berber&#8217;in çalışmasının 12. sayfasında yer alan ve
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/secim-2011/gelismislik-endeksi-oy-dagilimi-labels.png" border="0/" />
+      <img alt="" src="{{ site.url }}/images/analiz-2011-genel-secim-sonuclari-gelismislik-endeksi-oy-dagilimi-labels.png" border="0/" />
     </td>
   </tr>
 </table>
@@ -121,7 +121,7 @@ Bu etiket ve renk kodlarına bağlı olarak partilerin aldıkları oylar arasın
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/secim-2011/gelismislik-endeksi-oy-dagilimi.png" border="0/" />
+      <img alt="" src="{{ site.url }}/images/analiz-2011-genel-secim-sonuclari-gelismislik-endeksi-oy-dagilimi.png" border="0/" />
     </td>
   </tr>
 </table>
@@ -137,7 +137,7 @@ Gelişmişlik endeksi negatif ve pozitif olan illerin listesi aşağıdaki gibi.
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/secim-2011/gelismislik-endeksi-neg-poz-labels.png" border="0/" />
+      <img alt="" src="{{ site.url }}/images/analiz-2011-genel-secim-sonuclari-gelismislik-endeksi-neg-poz-labels.png" border="0/" />
     </td>
   </tr>
 </table>
@@ -151,7 +151,7 @@ Aşağıdaki grafikler bu renk koduna istinaden partilere oy dağılımını gö
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/secim-2011/gelismislik-endeksi-neg-poz.png" border="0/" />
+      <img alt="" src="{{ site.url }}/images/analiz-2011-genel-secim-sonuclari-gelismislik-endeksi-neg-poz.png" border="0/" />
     </td>
   </tr>
 </table>
@@ -184,7 +184,7 @@ Geçersiz oy oranı en düşük 15 ile geçersiz oy oranı en yükse 15 ilin lis
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/secim-2011/gecersiz-oy-labels.png" border="0/" />
+      <img alt="" src="{{ site.url }}/images/analiz-2011-genel-secim-sonuclari-gecersiz-oy-labels.png" border="0/" />
     </td>
   </tr>
 </table>
@@ -194,7 +194,7 @@ Bu veriler ışığında partilerin geçersiz oy oranı yüksek ve düşük ille
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/secim-2011/gecersiz-oy.png" border="0/" />
+      <img alt="" src="{{ site.url }}/images/analiz-2011-genel-secim-sonuclari-gecersiz-oy.png" border="0/" />
     </td>
   </tr>
 </table>
@@ -210,7 +210,7 @@ Gümrüklerden kullanılan oylar ile beraber tüm şehirlerin pasta dilimi göst
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <a href="http://meren.org/wp-content/gallery/secim-2011/clusters.png"><img alt="" src="http://meren.org/wp-content/gallery/secim-2011/clusters-mini.png" border="0/" /></a>
+      <a href="{{ site.url }}/images/analiz-2011-genel-secim-sonuclari-clusters.png"><img alt="" src="{{ site.url }}/images/analiz-2011-genel-secim-sonuclari-clusters-mini.png" border="0/" /></a>
     </td>
   </tr>
 </table>

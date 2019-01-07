@@ -60,7 +60,7 @@ Bir alanın en revaçtaki dergilerinde yayın yapmanın güçlüğü, insanları
 <table border="0" width="100%">
   <tr>
     <td align="center">
-      <img title="Çok güzel bir bilimsel makale, ellerimize sağlık." src="http://meren.org/wp-content/gallery/blog-photos/makale.jpg" alt="" />
+      <img title="Çok güzel bir bilimsel makale, ellerimize sağlık." src="{{ site.url }}/images/bilimsel-ahlaksizligin-gri-mecralari-makale.jpg" alt="" />
     </td>
   </tr>
 </table>

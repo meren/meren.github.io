@@ -7,6 +7,7 @@ layout: page
 guid: http://meren.org/blog/
 pvc_views:
   - "22676"
+permalink: /blog/turkiyenin-akademik-problemleri-nasil-cozulur
 ---
 Bu yazıyı başlıktaki soruya net bir yanıt vermeye çalışmaktan ziyade bu konuda bir tartışma başlatmak ümidiyle yazıyorum. Uzun yazı için affınıza sığınıyorum. Konu uzun, kısaltmak gerçekten çok güç oluyor.
 
@@ -48,7 +49,7 @@ Konferansa dair dile getirdiğim iddialarla ilgili tekzip yazısı böyle. Bunun
 
 Konferansa dair tartışmaların sürdüğü dönemde Çanakkale Onsekiz Mart Üniversitesi rektörü olan Dr. Ali Akdemir&#8217;in onursal başkanlığı yoluyla konferansın arkasında duran Çanakkale Onsekiz Mart Üniversitesi, tüm bu yaşananlara rağmen tek bir açıklama dahi yapmadığı gibi, konferans duyurusunu <a href="http://www.comu.edu.tr/duyurular/detay.php?id=3422" target="_blank">sunucularından</a> kaldırmayı bile düşünmedi.
 
-Bana yöneltilebilecek eleştirilerden birisi, henüz gerçekleşmemiş bir konferansı, konferansı düzenleyen kişilerin akademik çehrelerinden yola çıkarak eleştiriyor olmam olabilirdi. Bu davranışım bana büyük bir utanç olarak geri dönsün isterdim. Fakat konferansta hiçbir sürpriz yaşanmadı. Konferans Çanakkale&#8217;de duyurulduğu tarihte gerçekleşti. Gerçekleşmesinin üzerinden aylar geçen konferansta sunulan bildiriler şöyle dursun, konferansa katılanların isim listesine ulaşmak dahi halen mümkün değil. Zira konferansın <a href="http://www.iciconference.org/conference/" target="_blank">web sayfası</a> konferanstan bir gün önce nasıldı ise halen öyle duruyor. Muhtemelen alan adı kirasını ödeme vakti geldiğinde o da kaybolup gider (06/07/2011 tarihi itibarı ile nasıl göründüğünü <a href="http://meren.org/tmp/ici/04.07.2011.icis.png" target="_blank">şuraya sakladım</a>).
+Bana yöneltilebilecek eleştirilerden birisi, henüz gerçekleşmemiş bir konferansı, konferansı düzenleyen kişilerin akademik çehrelerinden yola çıkarak eleştiriyor olmam olabilirdi. Bu davranışım bana büyük bir utanç olarak geri dönsün isterdim. Fakat konferansta hiçbir sürpriz yaşanmadı. Konferans Çanakkale&#8217;de duyurulduğu tarihte gerçekleşti. Gerçekleşmesinin üzerinden aylar geçen konferansta sunulan bildiriler şöyle dursun, konferansa katılanların isim listesine ulaşmak dahi halen mümkün değil. Zira konferansın <a href="http://www.iciconference.org/conference/" target="_blank">web sayfası</a> konferanstan bir gün önce nasıldı ise halen öyle duruyor. Muhtemelen alan adı kirasını ödeme vakti geldiğinde o da kaybolup gider (06/07/2011 tarihi itibarı ile nasıl göründüğünü <a href="{{ site.url }}/images/turkiyenin-akademik-problemleri-nasil-cozulur-04.07.2011.icis.png" target="_blank">şuraya sakladım</a>).
 
 <p style="text-align: center;">
   ***
@@ -89,7 +90,7 @@ Tüm bunlar bir kenara, bu problemlerin Çanakkale Onsekiz Mart Üniversitesi il
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img title="Tez" src="http://meren.org/tmp/ici/tez-giris.png" alt="" border="0/" />
+      <img title="Tez" src="{{ site.url }}/images/turkiyenin-akademik-problemleri-nasil-cozulur-tez-giris.png" alt="" border="0/" />
     </td>
   </tr>
 </table>
@@ -99,7 +100,7 @@ Bu okuduğunuz sayfanın Türkiye&#8217;de verilmiş bir doktora tezinin giriş 
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img title="Tez" src="http://meren.org/tmp/ici/tez-kaynaklar.png" alt="" border="0/" />
+      <img title="Tez" src="{{ site.url }}/images/turkiyenin-akademik-problemleri-nasil-cozulur-tez-kaynaklar.png" alt="" border="0/" />
     </td>
   </tr>
 </table>
@@ -123,7 +124,7 @@ Aşağıda yer alan grafiği Fırat Üniversitesi Fen Bilimleri Enstitüsü Müd
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <a href="http://meren.org/tmp/ici/ekinci.png" target="_blank"><img title="Ekinci" src="http://meren.org/tmp/ici/ekinci-mini.png" alt="" border="0/" /></a>
+      <a href="{{ site.url }}/images/turkiyenin-akademik-problemleri-nasil-cozulur-ekinci.png" target="_blank"><img title="Ekinci" src="{{ site.url }}/images/turkiyenin-akademik-problemleri-nasil-cozulur-ekinci-mini.png" alt="" border="0/" /></a>
     </td>
   </tr>
 </table>

@@ -7,6 +7,7 @@ layout: page
 guid: http://www.meren.org/blog/?page_id=108
 pvc_views:
   - "24011"
+permalink: /blog/fotografi-anlamak
 ---
 <div class="belge">
   <h3 style="text-align: center;">
@@ -381,11 +382,11 @@ pvc_views:
         
         <tr>
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/safak-tortu-sanayi-devrimi.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-safak-tortu-sanayi-devrimi.jpg" alt="" />
           </td>
           
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/fikri-ozalp-atmaca-guvesi.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-fikri-ozalp-atmaca-guvesi.jpg" alt="" />
           </td>
         </tr>
       </table>
@@ -484,11 +485,11 @@ pvc_views:
         
         <tr>
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/aydin-sertbas-yalnizligin-rengi-turuncudur.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-aydin-sertbas-yalnizligin-rengi-turuncudur.jpg" alt="" />
           </td>
           
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/erdal-kinaci-harmonist.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-erdal-kinaci-harmonist.jpg" alt="" />
           </td>
         </tr>
         
@@ -504,11 +505,11 @@ pvc_views:
         
         <tr>
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/a-murat-eren-gecmis-ile-kacinilmaz-yuzlesme.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-a-murat-eren-gecmis-ile-kacinilmaz-yuzlesme.jpg" alt="" />
           </td>
           
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/nedime-cangokce-hamam.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-nedime-cangokce-hamam.jpg" alt="" />
           </td>
         </tr>
         
@@ -524,11 +525,11 @@ pvc_views:
         
         <tr>
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/ozan-guzelce-mucadele.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-ozan-guzelce-mucadele.jpg" alt="" />
           </td>
           
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/gokmen-cosar-sairin-gulumseyisi.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-gokmen-cosar-sairin-gulumseyisi.jpg" alt="" />
           </td>
         </tr>
         
@@ -660,11 +661,11 @@ pvc_views:
         
         <tr>
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/umut-akcar-carl-zeiss.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-umut-akcar-carl-zeiss.jpg" alt="" />
           </td>
           
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/duygu-ozpolat-xenopus.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-duygu-ozpolat-xenopus.jpg" alt="" />
           </td>
         </tr>
         
@@ -751,11 +752,11 @@ pvc_views:
         
         <tr>
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/hakki-ceylan-250cc-II.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-hakki-ceylan-250cc-II.jpg" alt="" />
           </td>
           
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/halit-omer-camci-cok-kulturluluk.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-halit-omer-camci-cok-kulturluluk.jpg" alt="" />
           </td>
         </tr>
         
@@ -835,11 +836,11 @@ pvc_views:
         
         <tr>
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/hamit-secil-dunya-hali.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-hamit-secil-dunya-hali.jpg" alt="" />
           </td>
           
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/erdal-kinaci-bir-teselli.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-erdal-kinaci-bir-teselli.jpg" alt="" />
           </td>
         </tr>
         
@@ -855,11 +856,11 @@ pvc_views:
         
         <tr>
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/safak-tortu-hasta.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-safak-tortu-hasta.jpg" alt="" />
           </td>
           
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/a-murat-eren-uyusmak-ve-hissizlesmek-uzerine.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-a-murat-eren-uyusmak-ve-hissizlesmek-uzerine.jpg" alt="" />
           </td>
         </tr>
         
@@ -875,11 +876,11 @@ pvc_views:
         
         <tr>
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/ebru-baraz-ucleme.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-ebru-baraz-ucleme.jpg" alt="" />
           </td>
           
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/inanc-ozyalim-kole.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-inanc-ozyalim-kole.jpg" alt="" />
           </td>
         </tr>
         
@@ -966,11 +967,11 @@ pvc_views:
         
         <tr>
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/mustafa-seven-basbakan-komsulari.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-mustafa-seven-basbakan-komsulari.jpg" alt="" />
           </td>
           
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/mustafa-seven-renkli-hayatlar.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-mustafa-seven-renkli-hayatlar.jpg" alt="" />
           </td>
         </tr>
         
@@ -1050,11 +1051,11 @@ pvc_views:
         
         <tr>
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/abdullah-gencaslan-ritmik-devamlilik.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-abdullah-gencaslan-ritmik-devamlilik.jpg" alt="" />
           </td>
           
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/niko-guido-son-yeniden.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-niko-guido-son-yeniden.jpg" alt="" />
           </td>
         </tr>
         
@@ -1070,11 +1071,11 @@ pvc_views:
         
         <tr>
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/can-cetin-kirmizi-catili-kulube.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-can-cetin-kirmizi-catili-kulube.jpg" alt="" />
           </td>
           
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/aykan-ozener-balikcinin-oglu.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-aykan-ozener-balikcinin-oglu.jpg" alt="" />
           </td>
         </tr>
         
@@ -1090,11 +1091,11 @@ pvc_views:
         
         <tr>
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/erol-avanoglu-emektar.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-erol-avanoglu-emektar.jpg" alt="" />
           </td>
           
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/selin-susoy-duman-etkisi.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-selin-susoy-duman-etkisi.jpg" alt="" />
           </td>
         </tr>
         
@@ -1162,11 +1163,11 @@ pvc_views:
         
         <tr>
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/aykan-ozener-dinginlik.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-aykan-ozener-dinginlik.jpg" alt="" />
           </td>
           
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/aykan-ozener-ask.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-aykan-ozener-ask.jpg" alt="" />
           </td>
         </tr>
         
@@ -1178,7 +1179,7 @@ pvc_views:
         
         <tr>
           <td colspan="2" align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/fatih-kilic-beylerbeyi-infrared.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-fatih-kilic-beylerbeyi-infrared.jpg" alt="" />
           </td>
         </tr>
         
@@ -1388,7 +1389,7 @@ pvc_views:
         
         <tr>
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/erdal-kinaci-kedi-fotografi.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-erdal-kinaci-kedi-fotografi.jpg" alt="" />
           </td>
         </tr>
         
@@ -1532,7 +1533,7 @@ pvc_views:
         
         <tr>
           <td align="center">
-            <img src="http://meren.org/fotografi-anlamak/fotograflar/small/erdal-kinaci-kedi-fotografi.jpg" alt="" />
+            <img src="{{ site.url }}/images/fotografi-anlamak-erdal-kinaci-kedi-fotografi.jpg" alt="" />
           </td>
         </tr>
         
@@ -1772,7 +1773,7 @@ pvc_views:
   </p>
   
   <div>
-    <img src="http://meren.org/fotografi-anlamak/imajlar/noncomm.jpg" alt="" />
+    <img src="{{ site.url }}/images/fotografi-anlamak-noncomm.jpg" alt="" />
   </div>
   
   <p>
@@ -1780,7 +1781,7 @@ pvc_views:
   </p>
   
   <div>
-    <img src="http://meren.org/fotografi-anlamak/imajlar/attrib.jpg" alt="" />
+    <img src="{{ site.url }}/images/fotografi-anlamak-attrib.jpg" alt="" />
   </div>
   
   <p>

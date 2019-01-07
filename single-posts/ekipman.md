@@ -7,6 +7,7 @@ layout: page
 guid: http://meren.org/blog/?page_id=1231
 pvc_views:
   - "32042"
+permalink: /blog/ekipman
 ---
 Burada daha önce kullanığım ve an itibarı ile kullanmakta olduğum ekipmanlara dair bir liste tutmaya karar verdim.
 

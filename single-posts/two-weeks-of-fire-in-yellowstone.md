@@ -7,6 +7,7 @@ layout: page
 guid: http://meren.org/blog/?page_id=2555
 pvc_views:
   - "1540"
+permalink: /blog/two-weeks-of-fire-in-yellowstone
 ---
 Approximately two weeks ago, I went to see Anoush in Yellowstone. It&#8217;s been a very long time since I&#8217;ve been dreaming about this trip. However, I had no idea that the perfect mix of two well-known phenomena was going to make this two weeks the longest two weeks I&#8217;ve ever lived: (1) every journey presents its disappointments and surprises, (2) the longer you dream about something, the longer time you give the universe to set up the engine of improbabilities.
 
@@ -37,7 +38,7 @@ This photograph is attached to the note. It is one of the first photographs I to
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <a href="http://meren.org/wp-content/gallery/yellowstone-2012/pano-1-3000px.jpg" target="_blank"><img alt="" src="http://meren.org/wp-content/gallery/yellowstone-2012/pano-1-800px.jpg" border="0" /></a>
+      <a href="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-pano-1-3000px.jpg" target="_blank"><img alt="" src="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-pano-1-800px.jpg" border="0" /></a>
     </td>
   </tr>
 </table>
@@ -63,7 +64,7 @@ Next day Anoush takes me to a hospital in Jackson Hole, WY, the closest city. We
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/yellowstone-2012/yst-2.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-yst-2.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -77,7 +78,7 @@ When I was being located in a hospital room for the night, Anoush was going to a
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/yellowstone-2012/yst-3.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-yst-3.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -99,7 +100,7 @@ When I wake up the next day I can walk fine. I go all the way to the end of the 
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/yellowstone-2012/yst-5.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-yst-5.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -117,7 +118,7 @@ It is quiet in the car on the way back. I can&#8217;t remember its color. Maybe 
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <a href="http://meren.org/wp-content/gallery/yellowstone-2012/pano-6-3000px.jpg" target="_blank"><img alt="" src="http://meren.org/wp-content/gallery/yellowstone-2012/pano-6-800px.jpg" border="0" /></a>
+      <a href="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-pano-6-3000px.jpg" target="_blank"><img alt="" src="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-pano-6-800px.jpg" border="0" /></a>
     </td>
   </tr>
 </table>
@@ -127,7 +128,7 @@ We took a wrong turn on the road. Half knowingly. At some point we rest next to 
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/yellowstone-2012/yst-6.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-yst-6.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -141,7 +142,7 @@ I immediately remember why I love Yellowstone so much when we are back in the pa
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/yellowstone-2012/yst-7.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-yst-7.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -179,14 +180,14 @@ One of the things we did with Anoush once I was out of the hospital was going to
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <a href="http://meren.org/wp-content/gallery/yellowstone-2012/pano-4-3000px.jpg" target="_blank"><img alt="" src="http://meren.org/wp-content/gallery/yellowstone-2012/pano-4-800px.jpg" border="0" /></a>
+      <a href="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-pano-4-3000px.jpg" target="_blank"><img alt="" src="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-pano-4-800px.jpg" border="0" /></a>
     </td>
   </tr>
 </table>
 
 50 meters deep, discharging 2,000 liters water at 70C degrees every minute, this hot spring is like a nightmare for life. As you can see, even the trees that are present in everywhere in the park are looking at it from a safe distance. It is very hard for them to deal with the mineral-rich waters of this hot spring. However, the life, understanding that there is nothing it could do with its main forces, is not planning to give up: it uses its smallest soldiers and puts up an amazing guerrilla fight to conquer Grand Prismatic. Water that is coming from the dark and quiet places of the Earth&#8217;s crust is being greeted by chanting soldiers of life: Yellows, oranges, greens, reds and browns you see in the photograph above is the result of the existence of diverse and rich bacteria. Even at high temperatures towards the middle of the hot spring, where even bacteria can&#8217;t survive, thermophilic archaea is doing its best. A colorful carpet that is composed of little ambassadors of life is being put underneath the feet of sterile water: a greeting that is completely fait accompli. _Hi. Your journey in Earth&#8217;s dark corridors has been ended. We were sent here to introduce you to the eccentricities of life. The green stuff you can see on your right hand side are called trees. On your left, you can see the most lonely mammals on the planet who think they know everything walking around and looking at us. Cheers!_
 
-The same day I had an opportunity to get as close as I want to the thermal features in an area that was clear of tourists. While I was taking pictures of a geyser, Anoush and her friends were <a href="http://meren.org/wp-content/gallery/yellowstone-2012/yst-11.jpg" target="_blank">having fun</a> in the river down below, where the <a href="http://meren.org/wp-content/gallery/yellowstone-2012/yst-13-1.jpg" target="_blank">hot discharge</a> of this geyser was creating a pleasant warmth.
+The same day I had an opportunity to get as close as I want to the thermal features in an area that was clear of tourists. While I was taking pictures of a geyser, Anoush and her friends were <a href="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-yst-11.jpg" target="_blank">having fun</a> in the river down below, where the <a href="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-yst-13-1.jpg" target="_blank">hot discharge</a> of this geyser was creating a pleasant warmth.
 
 I love people. But I don&#8217;t have a clear answer to why I was spending all my time up above in the thermal area instead of enjoying the water with them.
 
@@ -195,7 +196,7 @@ This is how I lose. Then even the surprises I find cannot save me:
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/yellowstone-2012/yst-13-2.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-yst-13-2.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -211,7 +212,7 @@ I sometimes live life with a kid&#8217;s amazement whose monologue to his father
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/yellowstone-2012/yst-15.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-yst-15.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -225,7 +226,7 @@ The next day there is a hike that was planned before. Anoush, I and another grou
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/yellowstone-2012/yst-16.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-yst-16.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -235,7 +236,7 @@ After a while Heart Lake is in the horizon (it has nothing to do with the popula
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/yellowstone-2012/yst-17.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-yst-17.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -251,7 +252,7 @@ When we arrive at the camping spot I put up the tent and walk towards the therma
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/yellowstone-2012/yst-19.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-yst-19.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -263,12 +264,12 @@ Meanwhile I still am trying to understand what is happening in my physical world
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/yellowstone-2012/yst-22.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-yst-22.jpg" border="0" />
     </td>
   </tr>
 </table>
 
-A couple of minutes later, without giving any sort of notice it <a href="http://meren.org/wp-content/gallery/yellowstone-2012/yst-21.jpg" target="_blank">bursts</a> again by creating a tiny earth quake and an awful noise. I startle again with amazement.
+A couple of minutes later, without giving any sort of notice it <a href="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-yst-21.jpg" target="_blank">bursts</a> again by creating a tiny earth quake and an awful noise. I startle again with amazement.
 
 Bacteria welcomes the sterile water molecules and introduce them to the eccentrics of life. _Welcome! The green stuff you can see on your right hand side are called trees. On your left, you can see one of the most lonely mammals on the planet who think he knows everything looking at us. Cheers!_ Fucking life, and its fucking committee.
 
@@ -285,7 +286,7 @@ When I hitchhike to 62 cars and none of them stop, I take out 10 dollars from my
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/yellowstone-2012/yst-26.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-yst-26.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -309,7 +310,7 @@ Finally I decide to find a cardboard and put it on my backpack after writing whe
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/yellowstone-2012/yst-28.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-yst-28.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -337,7 +338,7 @@ I start walking on the streets of Bozeman aimlessly like a horse thief. As a res
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/yellowstone-2012/yst-30.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-yst-30.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -355,7 +356,7 @@ Following two days both Clara and Seth invent ways to keep my mind busy in a ver
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/yellowstone-2012/yst-30-1.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/two-weeks-of-fire-in-yellowstone-yst-30-1.jpg" border="0" />
     </td>
   </tr>
 </table>

@@ -7,6 +7,7 @@ layout: page
 guid: http://meren.org/blog/
 pvc_views:
   - "15449"
+permalink: /blog/rakamlarla-2010-referandumu-sonuclari
 ---
 Uzun süredir üzerine yorum yapılan, birçok polemik ile herkesin biraz daha kutuplaşmasına neden olan referandum neticelendi.
 
@@ -17,7 +18,7 @@ Herkes gibi ben de gazete web sayfalarına koştum, fakat gördüklerimle pek ta
 <table border="0" width="100%">
   <tr>
     <td align="center">
-      <img src="http://meren.org/wp-content/gallery/referandum/01.png" alt="" />
+      <img src="{{ site.url }}/images/rakamlarla-2010-referandumu-sonuclari-01.png" alt="" />
     </td>
   </tr>
 </table>
@@ -27,7 +28,7 @@ Fakat yukarıdaki veri sadece oy verenleri kapsıyor. İşin içine oy vermeyenl
 <table border="0" width="100%">
   <tr>
     <td align="center">
-      <img src="http://meren.org/wp-content/gallery/referandum/02.png" alt="" />
+      <img src="{{ site.url }}/images/rakamlarla-2010-referandumu-sonuclari-02.png" alt="" />
     </td>
   </tr>
 </table>
@@ -58,7 +59,7 @@ Türkiye&#8217;deki bütün illeri bir araya koyup evet / hayır ve boykot yüzd
 <table border="0" width="100%">
   <tr>
     <td align="center">
-      <img src="http://meren.org/wp-content/gallery/referandum/03.png" alt="" />
+      <img src="{{ site.url }}/images/rakamlarla-2010-referandumu-sonuclari-03.png" alt="" />
     </td>
   </tr>
 </table>
@@ -72,7 +73,7 @@ Yukarıdaki grafiği tek başına değerlendirdikten sonra aşağıdaki grafiği
 <table border="0" width="100%">
   <tr>
     <td align="center">
-      <img src="http://meren.org/wp-content/gallery/referandum/03-real-logscale.png" alt="" />
+      <img src="{{ site.url }}/images/rakamlarla-2010-referandumu-sonuclari-03-real-logscale.png" alt="" />
     </td>
   </tr>
 </table>
@@ -90,7 +91,7 @@ Oyların yüzdelik dağılımlarına göre tüm illeri değerlendirince ortaya �
 <table border="0" width="100%">
   <tr>
     <td align="center">
-      <a rel="lightbox" href="http://meren.org/wp-content/gallery/referandum/04.png"><img src="http://meren.org/wp-content/gallery/referandum/04-mini_0.png" alt="" /></a>
+      <a rel="lightbox" href="{{ site.url }}/images/rakamlarla-2010-referandumu-sonuclari-04.png"><img src="{{ site.url }}/images/rakamlarla-2010-referandumu-sonuclari-04-mini_0.png" alt="" /></a>
     </td>
   </tr>
 </table>
@@ -106,7 +107,7 @@ Daha sonra illeri 2009 yılında yapılan yerel seçimlerde kazanan partiler ile
 <table border="0" width="100%">
   <tr>
     <td align="center">
-      <img src="http://meren.org/wp-content/gallery/referandum/05_0.png" alt="" />
+      <img src="{{ site.url }}/images/rakamlarla-2010-referandumu-sonuclari-05_0.png" alt="" />
     </td>
   </tr>
 </table>
@@ -116,7 +117,7 @@ Aşağıdaki figür ise yukarıdaki bilgiyi de kullanarak, illerin Shannon çeş
 <table border="0" width="100%">
   <tr>
     <td align="center">
-      <img src="http://meren.org/wp-content/gallery/referandum/06_0.png" alt="" />
+      <img src="{{ site.url }}/images/rakamlarla-2010-referandumu-sonuclari-06_0.png" alt="" />
     </td>
   </tr>
 </table>
@@ -132,7 +133,7 @@ Aşağıdaki figür de bu illerdeki seçmenlerin evet / hayır ve boykot oranlar
 <table border="0" width="100%">
   <tr>
     <td align="center">
-      <img src="http://meren.org/wp-content/gallery/referandum/07_0.png" alt="" />
+      <img src="{{ site.url }}/images/rakamlarla-2010-referandumu-sonuclari-07_0.png" alt="" />
     </td>
   </tr>
 </table>
@@ -144,7 +145,7 @@ Aşağıdaki figür yukarıdaki figürün oy oranları yerine gerçek seçmen sa
 <table border="0" width="100%">
   <tr>
     <td align="center">
-      <img src="http://meren.org/wp-content/gallery/referandum/07-real-logscale.png" alt="" />
+      <img src="{{ site.url }}/images/rakamlarla-2010-referandumu-sonuclari-07-real-logscale.png" alt="" />
     </td>
   </tr>
 </table>
@@ -162,7 +163,7 @@ Son olarak size referandumdaki kompozisyonu bağlamında birbirine çok benzeyen
 <table border="0" width="100%">
   <tr>
     <td align="center">
-      <a rel="lightbox" href="http://meren.org/wp-content/gallery/referandum/08.png"><img src="http://meren.org/wp-content/gallery/referandum/08.png" alt="" width="600" /></a>
+      <a rel="lightbox" href="{{ site.url }}/images/rakamlarla-2010-referandumu-sonuclari-08.png"><img src="{{ site.url }}/images/rakamlarla-2010-referandumu-sonuclari-08.png" alt="" width="600" /></a>
     </td>
   </tr>
 </table>

@@ -7,6 +7,7 @@ layout: page
 guid: http://meren.org/blog/?page_id=2810
 pvc_views:
   - "6385"
+permalink: /blog/notlar
 ---
 Çeşitli konular üzerine fotoğrafsız, çalakalem yazılar.
 

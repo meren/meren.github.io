@@ -45,7 +45,7 @@ img.alignleft {margin:0 10px 1em 0px;clear:left;float:left;}
 img.alignright {margin:0 0 1em 10px;clear:right;float:right;}
 img.aligncenter{margin:0 auto;position:relative;clear:none;}
 .bigdate{text-shadow:#666 1px 1px 3px}
-a{color:#444;display:inline;}
+a{color:#d87171;display:inline;}
 a:hover{text-decoration:underline;color:#000;}
 h2 a:hover{text-decoration:none;}
 h2.post-content a{text-decoration:none;}

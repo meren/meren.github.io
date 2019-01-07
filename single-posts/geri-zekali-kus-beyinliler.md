@@ -7,6 +7,7 @@ layout: page
 guid: http://meren.org/blog/
 pvc_views:
   - "4173"
+permalink: /blog/geri-zekali-kus-beyinliler
 ---
 Galatasaray taraftarının yeni stadında başbakanı protesto ettiğini gören Yasin Ekrem Serim, kendileri ile Twitter üzerinden iletişime geçiyordu (yazım hataları kendisine ait):
 
@@ -49,7 +50,7 @@ AB Genel Sekteretliği&#8217;ne eleman alımında kamu vicdanını rahatsız ede
 Eğer Egemen Bağış&#8217;ın bu mevzuya dair nasıl bir adım atacağını merak ediyorsanız kendisinin de size bir mesajı var:
 
 <p style="text-align: center;">
-  <img class="img aligncenter" src="http://img534.imageshack.us/img534/1951/egemen.png" alt="" />
+  <img class="img aligncenter" src="{{ site.url }}/images/geri-zekali-kus-beyinliler-egemen.png" alt="" />
 </p>
 
 > Galatasaray&#8217;a, ulkemize ve Istanbul&#8217;a boyle muazzam bir tesis kazandiran emektarlara nankorluk yapanlar utansin. Stad hayirli olsun.

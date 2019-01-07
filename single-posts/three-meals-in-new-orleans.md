@@ -7,6 +7,7 @@ layout: page
 guid: http://meren.org/blog/?page_id=2743
 pvc_views:
   - "795"
+permalink: /blog/three-meals-in-new-orleans
 ---
 I went to New Orleans last week for three days. All by myself. Without telling people here that I was going, without telling people there that I was coming. Reasons I had to go to New Orleans have changed in time. But if you&#8217;d have asked me &#8220;_why Meren? why New Orleans?_&#8221; in the airport, I would have told you that I am going there &#8220;_to have a breakfast at La Boulangerie, to have a lunch in Liuzza&#8217;s, and to drink Abita Amber_&#8220;.
 
@@ -21,7 +22,7 @@ As soon as I left the airplane in New Orleans I went to the Children&#8217;s Hos
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/nola-revisited/nola-1.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/three-meals-in-new-orleans-nola-1.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -34,12 +35,12 @@ I went to the second floor. When I walked into the corridor where all the office
 
 It&#8217;s been a long time since I met someone who was surprised to see me. We spent too much time in the same places where people don&#8217;t find it surprising to see us. If no one is surprised to see you for a week, leave that life behind and find another one to live. Acutally I managed to surprise a lot of people in New Orleans with my presence and filled my quota for a year. May your turn come next.
 
-We went to the lab with Mike to say hi to the rest of his people. When I walked into the lab I was shocked to see that my work place was preserved the way it was just like the bedroom of a young soldier who died in a war. Here, I had taken [this one](https://www.facebook.com/photo.php?fbid=10150601205098863) more than 1,5 years ago (here is another [perspective](http://meren.org/wp-content/gallery/nola-revisited/workspace.jpg)). Shame on you if I died in a war and you don&#8217;t tell me.
+We went to the lab with Mike to say hi to the rest of his people. When I walked into the lab I was shocked to see that my work place was preserved the way it was just like the bedroom of a young soldier who died in a war. Here, I had taken [this one](https://www.facebook.com/photo.php?fbid=10150601205098863) more than 1,5 years ago (here is another [perspective]({{ site.url }}/images/three-meals-in-new-orleans-workspace.jpg)). Shame on you if I died in a war and you don&#8217;t tell me.
 
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/nola-revisited/nola-2.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/three-meals-in-new-orleans-nola-2.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -55,7 +56,7 @@ The next day I went to the apartment where Duygu, Ahmet and I spent a couple of 
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/nola-revisited/nola-3.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/three-meals-in-new-orleans-nola-3.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -73,7 +74,7 @@ While I was looking around, I saw the following sight. A rotting pumpkin from th
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/nola-revisited/nola-4.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/three-meals-in-new-orleans-nola-4.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -83,7 +84,7 @@ When I was walking back to the car, I saw that the piece I created while I was t
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/nola-revisited/nola-5.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/three-meals-in-new-orleans-nola-5.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -97,7 +98,7 @@ When the blanket of night was getting prepared to cover whatever was bound to ha
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/nola-revisited/nola-6.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/three-meals-in-new-orleans-nola-6.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -119,7 +120,7 @@ First stop was La Boulangerie on Magazine Street.
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/nola-revisited/nola-10.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/three-meals-in-new-orleans-nola-10.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -129,7 +130,7 @@ Croissant, strawbery tart and coffee.
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/nola-revisited/nola-11.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/three-meals-in-new-orleans-nola-11.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -141,7 +142,7 @@ My destination for lunch was another amazing place that was quite affordable: _L
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/nola-revisited/nola-12.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/three-meals-in-new-orleans-nola-12.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -153,7 +154,7 @@ I am very sorry for including the following photograph, the photograph of the MO
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/nola-revisited/nola-13.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/three-meals-in-new-orleans-nola-13.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -169,7 +170,7 @@ When I was leaving Liuzza&#8217;s I saw a sign on the wall that I hadn&#8217;t s
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/nola-revisited/nola-14.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/three-meals-in-new-orleans-nola-14.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -183,7 +184,7 @@ The last stop of the day was Balcony Bar on Magazine Street to drink an Abita Am
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/nola-revisited/nola-15.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/three-meals-in-new-orleans-nola-15.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -193,7 +194,7 @@ Amber is a Munich style Lager from the closeby brewery, Abita. It is one of the 
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/nola-revisited/nola-16.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/three-meals-in-new-orleans-nola-16.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -211,7 +212,7 @@ For an anorexic-wannabe like myself, the day was already full of action with res
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/nola-revisited/nola-19.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/three-meals-in-new-orleans-nola-19.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -221,7 +222,7 @@ I&#8217;m not playing around either:
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/nola-revisited/nola-18.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/three-meals-in-new-orleans-nola-18.jpg" border="0" />
     </td>
   </tr>
 </table>
@@ -239,7 +240,7 @@ Right before my scheduled departure we had breakfast together with Damian, my ol
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img alt="" src="http://meren.org/wp-content/gallery/nola-revisited/nola-20.jpg" border="0" />
+      <img alt="" src="{{ site.url }}/images/three-meals-in-new-orleans-nola-20.jpg" border="0" />
     </td>
   </tr>
 </table>
