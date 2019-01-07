@@ -6,12 +6,6 @@ author: admin
 layout: post
 guid: http://www.meren.org/anasayfa/?p=27
 permalink: /2009/07/childhood-memories/
-image_value:
-  - wp-content/themes/fullscreen/cache/01-ev.jpg
-image_url:
-  - {{ site.baseurl }}/images/childhood-memories-01-ev.jpg
-image_tag:
-  - '<img src="{{ site.baseurl }}/images/childhood-memories-01-ev.jpg" />'
 categories:
   - bloggallery
   - Childhood Memories

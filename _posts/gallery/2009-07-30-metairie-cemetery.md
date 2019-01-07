@@ -6,12 +6,6 @@ author: admin
 layout: post
 guid: http://www.meren.org/anasayfa/?p=57
 permalink: /2009/07/metairie-cemetery/
-image_value:
-  - wp-content/themes/fullscreen/cache/DSC_5629.JPG
-image_url:
-  - {{ site.baseurl }}/images/metairie-cemetery-DSC_5553.JPG
-image_tag:
-  - '<img src="{{ site.baseurl }}/images/metairie-cemetery-DSC_5553.JPG" />'
 categories:
   - bloggallery
   - Metairie Cemetery

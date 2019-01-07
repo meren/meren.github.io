@@ -6,12 +6,6 @@ author: admin
 layout: post
 guid: http://www.meren.org/anasayfa/?p=52
 permalink: /2009/07/dreamcatcher/
-image_value:
-  - wp-content/themes/fullscreen/cache/Dreamcatcher_III_by_evreniz.jpg
-image_url:
-  - {{ site.baseurl }}/images/dreamcatcher-Dream_Catcher_by_evreniz.jpg
-image_tag:
-  - '<img src="{{ site.baseurl }}/images/dreamcatcher-Dream_Catcher_by_evreniz.jpg" />'
 categories:
   - bloggallery
   - Dreamcatcher
