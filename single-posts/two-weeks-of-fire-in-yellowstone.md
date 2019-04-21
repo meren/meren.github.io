@@ -7,7 +7,7 @@ layout: page
 guid: http://meren.org/blog/?page_id=2555
 pvc_views:
   - "1540"
-permalink: /blog/two-weeks-of-fire-in-yellowstone
+permalink: /blog/two-weeks-of-fire-in-yellowstone/
 ---
 Approximately two weeks ago, I went to see Anoush in Yellowstone. It&#8217;s been a very long time since I&#8217;ve been dreaming about this trip. However, I had no idea that the perfect mix of two well-known phenomena was going to make this two weeks the longest two weeks I&#8217;ve ever lived: (1) every journey presents its disappointments and surprises, (2) the longer you dream about something, the longer time you give the universe to set up the engine of improbabilities.
 

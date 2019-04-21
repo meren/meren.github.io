@@ -7,7 +7,7 @@ layout: page
 guid: http://meren.org/blog/?page_id=2637
 pvc_views:
   - "1269"
-permalink: /blog/calcium-potassium-and-various-minerals
+permalink: /blog/calcium-potassium-and-various-minerals/
 ---
 Meetings were always too complicated. According to the instructions he got on the phone he parked on the left side of the empty road. His friend was going to be there soon, and they were going to hug each other, and they were going to talk about the old days, and so on. _What if we can&#8217;t find anything to talk about? What if he gets bored?_ Write it down: &#8220;_Life was jammed in between such stressful anticipations_&#8220;.
 

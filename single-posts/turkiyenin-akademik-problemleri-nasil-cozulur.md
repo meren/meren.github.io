@@ -7,7 +7,7 @@ layout: page
 guid: http://meren.org/blog/
 pvc_views:
   - "22676"
-permalink: /blog/turkiyenin-akademik-problemleri-nasil-cozulur
+permalink: /blog/turkiyenin-akademik-problemleri-nasil-cozulur/
 ---
 Bu yazıyı başlıktaki soruya net bir yanıt vermeye çalışmaktan ziyade bu konuda bir tartışma başlatmak ümidiyle yazıyorum. Uzun yazı için affınıza sığınıyorum. Konu uzun, kısaltmak gerçekten çok güç oluyor.
 

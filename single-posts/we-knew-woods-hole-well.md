@@ -7,7 +7,7 @@ layout: page
 guid: http://meren.org/blog/?page_id=3292
 pvc_views:
   - "308"
-permalink: /blog/we-knew-woods-hole-well
+permalink: /blog/we-knew-woods-hole-well/
 ---
 He took tiny steps on moist planks of the old pier. While he was walking towards the end, the quiet and gray town watched its inhabitant underneath a modest fog with its usual indifference. Planks are just about one foot wide. In these situations, it is clearly forbidden to have one foot put on two planks. People who look may have taken him seriously. But he was a squirrel stuck in a human body.
 

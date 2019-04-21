@@ -7,7 +7,7 @@ layout: page
 guid: http://meren.org/blog/
 pvc_views:
   - "6113"
-permalink: /blog/imamin-ordusu
+permalink: /blog/imamin-ordusu/
 ---
 Gazeteci Ahmet Şık&#8217;ın üzerinde çalıştığı ve tartışmalara yol açan [İmamın Ordusu](http://www.eksisozluk.com/show.asp?t=imam%C4%B1n%20ordusu) isimli kitabı bu gün itibarı ile İnternet&#8217;ten temin edilebiliyor.
 

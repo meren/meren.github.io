@@ -7,7 +7,7 @@ layout: page
 guid: http://meren.org/blog/
 pvc_views:
   - "4173"
-permalink: /blog/geri-zekali-kus-beyinliler
+permalink: /blog/geri-zekali-kus-beyinliler/
 ---
 Galatasaray taraftarının yeni stadında başbakanı protesto ettiğini gören Yasin Ekrem Serim, kendileri ile Twitter üzerinden iletişime geçiyordu (yazım hataları kendisine ait):
 

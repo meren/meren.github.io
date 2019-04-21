@@ -7,7 +7,7 @@ layout: page
 guid: http://meren.org/blog/?page_id=2743
 pvc_views:
   - "795"
-permalink: /blog/three-meals-in-new-orleans
+permalink: /blog/three-meals-in-new-orleans/
 ---
 I went to New Orleans last week for three days. All by myself. Without telling people here that I was going, without telling people there that I was coming. Reasons I had to go to New Orleans have changed in time. But if you&#8217;d have asked me &#8220;_why Meren? why New Orleans?_&#8221; in the airport, I would have told you that I am going there &#8220;_to have a breakfast at La Boulangerie, to have a lunch in Liuzza&#8217;s, and to drink Abita Amber_&#8220;.
 

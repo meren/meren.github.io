@@ -7,7 +7,7 @@ layout: page
 guid: http://meren.org/blog/
 pvc_views:
   - "15449"
-permalink: /blog/rakamlarla-2010-referandumu-sonuclari
+permalink: /blog/rakamlarla-2010-referandumu-sonuclari/
 ---
 Uzun süredir üzerine yorum yapılan, birçok polemik ile herkesin biraz daha kutuplaşmasına neden olan referandum neticelendi.
 

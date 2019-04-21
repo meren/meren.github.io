@@ -7,7 +7,7 @@ layout: page
 guid: http://meren.org/blog/
 pvc_views:
   - "49100"
-permalink: /blog/bilimsel-ahlaksizligin-gri-mecralari
+permalink: /blog/bilimsel-ahlaksizligin-gri-mecralari/
 ---
 > Önemli not: Yazı uzun ve okuması keyifsiz (bunun için üzgünüm). Bununla beraber bu yazıda anlatılanların bilinmesi gereken şeyler olduğuna siz de inanıyorsanız lütfen çevrenizle paylaşın. Hatta sadece paylaşmakla kalmayıp, insanları okumaya ikna edin. Bilim ve akademi ile haşır-neşir kişilerin gördüklerinde tanıyabilmeleri için bu konularda aydınlanmaları ve bilgi sahibi olmaları çok önemli.
 > 

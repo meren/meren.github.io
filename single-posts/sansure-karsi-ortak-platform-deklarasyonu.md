@@ -5,7 +5,7 @@ date: 2010-07-14T03:58:01+00:00
 author: A. Murat Eren
 layout: page
 guid: http://meren.org/blog/?page_id=1575
-permalink: /blog/sansure-karsi-ortak-platform-deklarasyonu
+permalink: /blog/sansure-karsi-ortak-platform-deklarasyonu/
 ---
 Aşağıdaki deklarasyon [Sansüre Karşı Ortak Platform](http://www.sansursuzinternet.org.tr/) tarafından 23 Haziran 2010 tarihinde yayınlanmıştır:
 

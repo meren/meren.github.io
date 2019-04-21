@@ -6,7 +6,7 @@ author: A. Murat Eren
 layout: page
 pvc_views:
   - "26528"
-permalink: /blog/analiz-2011-genel-secim-sonuclari
+permalink: /blog/analiz-2011-genel-secim-sonuclari/
 ---
 2011 Genel Seçimleri sonuçlandı. Birçok medya kuruluşu seçimlere dair detaylı istatistik ve rakamlara yer veriyor; misal, [NTVMSNBC](http://secim2011.ntvmsnbc.com/) son derece başarılı örneklerden birisi. Bununla beraber, medyada yer alan genel analizler içerisinde her soruya yanıt bulmak elbette mümkün değil. Bu yazıyı yazmamın sebebi de merak ettiğim ve seçim verisi içerisinde yanıt aradığım birkaç perspektifi benzer sorulara yanıt arıyor olabilecek insanlar ve diğer meraklılarla paylaşmak isteyişim idi.
 
