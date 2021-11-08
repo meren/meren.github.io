@@ -51,7 +51,7 @@ Yukarıdaki fotoğrafı çektikten kısa bir süre sonra Woods Hole&#8217;dan ay
 Şikago&#8217;ya doğru yola çıkmadan bir süre önce Woods Hole&#8217;daki 4 yılımın çok büyük çoğunluğunu geçirdiğim ofisimi topluyordum:
 
 <p style="text-align: center;">
-  <img class="aligncenter  wp-image-3261" alt="france-1" src="{{ site.baseurl }}/images/woods-holeu-da-iyi-bilirdik-france-1.jpg" width="900" height="506" srcset="{{ site.baseurl }}/images/woods-holeu-da-iyi-bilirdik-france-1.jpg 1200w, {{ site.baseurl }}/images/woods-holeu-da-iyi-bilirdik-france-1-900x506.jpg 900w" sizes="(max-width: 900px) 100vw, 900px" />
+  <img class="aligncenter  wp-image-3261" alt="france-1" src="{{ site.baseurl }}/images/woods-holeu-da-iyi-bilirdik-france-1.jpg" width="900" srcset="{{ site.baseurl }}/images/woods-holeu-da-iyi-bilirdik-france-1.jpg 1200w, {{ site.baseurl }}/images/woods-holeu-da-iyi-bilirdik-france-1-900x506.jpg 900w" sizes="(max-width: 900px) 100vw, 900px" />
 </p>
 
 O sırada şöyle bir not almıştım:
