@@ -22,7 +22,7 @@ Her neyse. Başta, Duygu&#8217;nun ince ince yaptığı planlara istinaden Madri
 Madrid&#8217;e gittikten sonra bir araba kiralamak ve San Sebastian&#8217;a doğru yola çıkmak yeni hedefimizdi. Fakat San Sebastian&#8217;dan bahsetmeden önce tüm gezinin yaklaşık gidişatını göstermek isterim:
 
 <p style="text-align: center;">
-  <img class="aligncenter" title="Madrid, San Sebastian, Biarritz, Bayonne, Toulouse, Avignon, Montpellier, Barcelona, Valencia, Granada, Cadiz, Cordoba, San Lorenzo de El Escorial, Toledo, Madrid." src="{{ site.baseurl }}/images/avrupada-3800km-bolum-1-route.png" alt="" width="600" height="550" />
+  <img class="aligncenter" title="Madrid, San Sebastian, Biarritz, Bayonne, Toulouse, Avignon, Montpellier, Barcelona, Valencia, Granada, Cadiz, Cordoba, San Lorenzo de El Escorial, Toledo, Madrid." src="{{ site.baseurl }}/images/avrupada-3800km-bolum-1-route.png" alt="" width="600" />
 </p>
 
 <p style="text-align: left;">

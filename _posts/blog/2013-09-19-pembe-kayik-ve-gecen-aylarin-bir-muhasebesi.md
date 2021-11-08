@@ -64,7 +64,7 @@ Buna paralel bir diğer gelişme de 2 yıldır doktora sonrası araştırmacı o
 
 Bu da yeni ofisim:
 
-<img class="aligncenter size-full wp-image-2920" alt="," src="{{ site.baseurl }}/images/pembe-kayik-ve-gecen-aylarin-bir-muhasebesi-yeni-ofis.jpg" width="900" height="440" />
+<img class="aligncenter size-full wp-image-2920" alt="," src="{{ site.baseurl }}/images/pembe-kayik-ve-gecen-aylarin-bir-muhasebesi-yeni-ofis.jpg" width="900" />
 
 Eğer biyoenformatik, makine öğrenimi ya da hesapsal biyoloji alanlarında çalışan ve mikrobiyal ekoloji alanında deneyim sahibi olmak için ücretli izne filan çıkmayı düşünen bir bilim insanı iseniz, masanın sol tarafını sizin gibi ziyaretçiler otursun diye hususi olarak boş bırakıyorum; haberiniz olsun.
 

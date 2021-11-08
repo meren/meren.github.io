@@ -32,7 +32,7 @@ Peki. Bu günlüğe ilk kez denk gelenler için bir mini-giriş. Ben esasında b
 
 Meren&#8217;in ofisi iki hafta önce tarihinin en kalabalık buluşmalarından birisine ev sahipliği yaptı (Woods Hole Woods Hole oldu olalı Türkiye çıkışlı bu kadar insanı bir arada görmemişti):
 
-[<img class="aligncenter size-large wp-image-3171" alt="meren-lab-2" src="{{ site.baseurl }}/images/merenin-bilim-gunlugu-meren-lab-2-900x552.jpg" width="900" height="552" srcset="{{ site.baseurl }}/images/merenin-bilim-gunlugu-meren-lab-2-900x552.jpg 900w, {{ site.baseurl }}/images/merenin-bilim-gunlugu-meren-lab-2.jpg 1200w" sizes="(max-width: 900px) 100vw, 900px" />]({{ site.baseurl }}/images/merenin-bilim-gunlugu-meren-lab-2.jpg)
+[<img class="aligncenter size-large wp-image-3171" alt="meren-lab-2" src="{{ site.baseurl }}/images/merenin-bilim-gunlugu-meren-lab-2-900x552.jpg" width="900" srcset="{{ site.baseurl }}/images/merenin-bilim-gunlugu-meren-lab-2-900x552.jpg 900w, {{ site.baseurl }}/images/merenin-bilim-gunlugu-meren-lab-2.jpg 1200w" sizes="(max-width: 900px) 100vw, 900px" />]({{ site.baseurl }}/images/merenin-bilim-gunlugu-meren-lab-2.jpg)
 
 Soldan sağa kişiler şöyle: Doğancan Özturan, B. Duygu Özpolat, Aysu Uygur, bendeniz, İlker Öztop, ve Özcan Esen.
 
@@ -40,7 +40,7 @@ Doğancan (Bilgi Üniversitesi) ve Özcan (Çanakkale Onsekiz Mart Üniversitesi
 
 Bu ftoğrafın çekildiği gün Aysu ve İlker ile Bilim Kazanı için küçük bir söyleşi gerçekleştirdik. Kendileri böyle bildiğin mikrofonları ile filan gelmişlerdi:
 
-[<img class="aligncenter size-large wp-image-3174" alt="meren-lab-1" src="{{ site.baseurl }}/images/merenin-bilim-gunlugu-meren-lab-1-900x600.jpg" width="900" height="600" srcset="{{ site.baseurl }}/images/merenin-bilim-gunlugu-meren-lab-1-900x600.jpg 900w, {{ site.baseurl }}/images/merenin-bilim-gunlugu-meren-lab-1.jpg 1200w" sizes="(max-width: 900px) 100vw, 900px" />]({{ site.baseurl }}/images/merenin-bilim-gunlugu-meren-lab-1.jpg)
+[<img class="aligncenter size-large wp-image-3174" alt="meren-lab-1" src="{{ site.baseurl }}/images/merenin-bilim-gunlugu-meren-lab-1-900x600.jpg" width="900" srcset="{{ site.baseurl }}/images/merenin-bilim-gunlugu-meren-lab-1-900x600.jpg 900w, {{ site.baseurl }}/images/merenin-bilim-gunlugu-meren-lab-1.jpg 1200w" sizes="(max-width: 900px) 100vw, 900px" />]({{ site.baseurl }}/images/merenin-bilim-gunlugu-meren-lab-1.jpg)
 
 Mikrofon böyle artist olunca belki benim karga sesimi de _güzel alır_ diye heves ettim başta. Fakat daha sonradan mevzunun mikrofon ile çözülebilecek bir hadise olmadığını yeniden öğrenmiş oldum. _Sağlık olsun Meren._ Dostlar sağ olsun. Ben zaten sesimle değil vücudumla anılmak istiyorum. _Evet, seni sayborg kırması sağ elinle anacağız._ Peh. Vücudumla da anılmayayım, iyi.
 

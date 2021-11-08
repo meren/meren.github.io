@@ -18,7 +18,7 @@ Son günlerde [meren.org](http://meren.org)&#8216;un da üzerinde host edildiği
 Ben ise Duygu hanımlar ile beraber İspanya&#8217;ya doğru yola çıkıyorum bu Pazartesi. 20 gün ortalarda olmayacağım, fakat sahalardan uzak kaldığım bu süreyi leziz fotoğraflar ve yol hikayeleri ile telafi edeceğimi umuyorum. Ah, Duygu hanımlar demişken, işte kendisi yeni saçları ile:
 
 <p align="center">
-  <img src="{{ site.baseurl }}/images/complete-heterochromia-duygucuk.jpg" alt="Duygu" width="402" height="600" />
+  <img src="{{ site.baseurl }}/images/complete-heterochromia-duygucuk.jpg" alt="Duygu" width="402" />
 </p>
 
 <p style="text-align: left;">

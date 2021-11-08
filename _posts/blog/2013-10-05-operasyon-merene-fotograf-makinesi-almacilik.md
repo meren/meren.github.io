@@ -36,7 +36,7 @@ Benim için [Artvin](http://meren.org/blog/2009/07/barhalda-7-gun/) ne ise [Anou
 
 Patika üzerinde hayatın basit bir rutini var. 6 ay boyunca her gün dağlarda 50-60 kilometre yürümek, akşam olunca ateş yakıp yemek pişirmek, gece ile beraber bir çadır, hamak ya da sığınakta uyku tulumuna sarılıp uyumak, sabahın ilk ışıkları ile uyanıp tekrar yola düşmek, ve bunu her gün yapmak, ve insanlar bu patikanın sağına soluna denk düşen şehirlerde şehirli olmanın gereklerine yoğunlaşırken, patikada geçen haftalar boyunca yağmur / çamur / ayı / soğuk / yokuş / dere / yemek / su dışında kalan her şeyin nasıl da önemini yitirdiğine şahit olmak elbette benzersiz bir deneyim olmalı. Dolayısıyla Anoush&#8217;un sık sık 2009&#8217;da her şeye 6 ay ara verip tamamını yürüdüğü bu patikadan bahsetmesi, ya da aynen benim herkesi Artvin&#8217;e götürmeye çalışmam gibi beni her fırsatta Appalachain patikasına götürmeye çalışması bana çok doğal geliyor. Bu nedenle -üç hafta kadar önce- &#8220;_bu kadar çalışmak yeter bence_&#8221; hisleri içinde olduğum bir anda Anoush ile beraber Appalachain patikasının geçtiği White Mountains bölgesine yürümeye gittik. Artvin hasretini elin dağlarıyla geçiştirmek maceralarımız kapsamında Appalachain Patikası ile yolum daha önce de Smoky Mountains dolaylarında [kesişmiş](http://meren.org/blog/2009/09/smoky-mountains/), tadı damağımda kalmıştı.
 
-<img class="aligncenter size-full wp-image-2937" alt="apa-8" src="{{ site.baseurl }}/images/operasyon-merene-fotograf-makinesi-almacilik-apa-8.jpg" width="900" height="599" />
+<img class="aligncenter size-full wp-image-2937" alt="apa-8" src="{{ site.baseurl }}/images/operasyon-merene-fotograf-makinesi-almacilik-apa-8.jpg" width="900" />
 
 Arabamızı park ettik, sırt çantalarımızı sırtlandık, ve yürümeye başladık.
 
@@ -48,11 +48,11 @@ Sığınağa vardığımızda 4-5 kişilik bir kafile ile karşılaşıyoruz. Yo
 
 Ben ise ilk tanışmalarda çok asosyal bir insan olduğum için içimden &#8220;_e iyi o zaman madem ben de mesela çadırı filan kurayım di mi_&#8221; diyerek olay mahalinden uzaklaşıyorum.
 
-<img class="aligncenter size-full wp-image-2938" alt="apa-10" src="{{ site.baseurl }}/images/operasyon-merene-fotograf-makinesi-almacilik-apa-10.jpg" width="900" height="599" />
+<img class="aligncenter size-full wp-image-2938" alt="apa-10" src="{{ site.baseurl }}/images/operasyon-merene-fotograf-makinesi-almacilik-apa-10.jpg" width="900" />
 
 Biraz yürüdükten sonra çadır için makul bir yer buluyorum. _Şehre biraz uzak, ama çadırın yeri çok güzel_ (&#8216;şehir&#8217; dediği de &#8216;barınak&#8217; bu arada .. adam bildiğin hasta).
 
-<img class="aligncenter size-full wp-image-2945" alt="cad-1" src="{{ site.baseurl }}/images/operasyon-merene-fotograf-makinesi-almacilik-cad-1.jpg" width="900" height="599" />
+<img class="aligncenter size-full wp-image-2945" alt="cad-1" src="{{ site.baseurl }}/images/operasyon-merene-fotograf-makinesi-almacilik-cad-1.jpg" width="900" />
 
 Çadırı kurduktan sonra ellerim cebimde sığınak alanına geri dönüyorum. Eski defterler açılmış, Anoush 2009 yılı maceralarından daha önce dinlemediğim birisini anlatıyor:
 
@@ -86,7 +86,7 @@ Patika hikaye dolu. Benim patikaya dair anlatacağım bir şey olmadığı için
 
 Fakat insanların asosyalliğe tahammülü yok. Onlar bana ufaktan soru sormaya başlıyorlar. Küçükten tanışaya başlıyoruz. Hepsi aylardır patikayı yürüyen, bambaşka geçmişlerden gelen genç insanlar. Bu gençlerden birisi &#8220;Lost&#8221;.
 
-<img class="aligncenter size-full wp-image-2941" alt="apa-17" src="{{ site.baseurl }}/images/operasyon-merene-fotograf-makinesi-almacilik-apa-17.jpg" width="900" height="599" />
+<img class="aligncenter size-full wp-image-2941" alt="apa-17" src="{{ site.baseurl }}/images/operasyon-merene-fotograf-makinesi-almacilik-apa-17.jpg" width="900" />
 
 Lost kişisi, habire bir şeylerini kaybettiği için bu lakaba layık görülmüş. Lakaplar patikanın bir geleneği (bu lakaplar için &#8220;trail name&#8221; diyorlar; Anoush&#8217;un lakabı da, sürekli düşmenin bir yolunu bulduğu için Miss Step olarak kalmış mesela, patikadan tanıdığı herkes onu öyle biliyor). Lost kişisini diğer kişilerimizden ayıran özelliği çok sürpriz: adam bildiğin Türkçe biliyor. Türkiye&#8217;den olduğumu öğrendikten sonra bana son derece düzgün bir Türkçe aksanı ile &#8220;_Türkiye&#8217;nin neresinden geliyorsunuz_&#8221; diye sorduğunda yüzümdeki ifadeyi az çok tahmin edebilirsiniz. Tek tük Türkçe kelime öğrenmiş Amerikalılar az rastlanır olmasa da, bir Amerikalının bu kadar düzgün Türkçe konuşuyor olması hiç sık rastlanır bir şey değil. Meğer babası Amerikalı olan Lost&#8217;un annesi Türkiyeli imiş, ve Lost kardeşimiz yazlarının hemen hepsini Türkiye&#8217;de geçirmiş. Lost&#8217;un gerçek adı lakabından da süper: &#8220;Reis&#8221;. Belli ki anne olaya el koymuş. Çok iyi etmişsin teyzecim.
 
@@ -96,11 +96,11 @@ Gece oldu. Herkes uyku tulumlarına dağıldı.
 
 Yolumuz çok uzun olduğu için ertesi sabah erkenden yola düştük. Aşağıdaki, sadece kısa bir süre sonra başına geleceklerden habersiz olan ben kişisi:
 
-<img class="aligncenter size-full wp-image-2948" alt="apa-15" src="{{ site.baseurl }}/images/operasyon-merene-fotograf-makinesi-almacilik-apa-15.jpg" width="900" height="599" />
+<img class="aligncenter size-full wp-image-2948" alt="apa-15" src="{{ site.baseurl }}/images/operasyon-merene-fotograf-makinesi-almacilik-apa-15.jpg" width="900" />
 
 Anoush ile yürümeye koyulduktan makul bir süre sonra karşımıza bir dere çıktı. Taşlardan seke seke karşıya geçeceğiz. Tam derenin ortasında iken Anoush &#8220;_ya çok güzel burası, bi fotoğraf çeksene_&#8221; dedi. Normalde Meren&#8217;den bu tür taleplerde bulunmak yasak. Fakat o gün özel bir durum söz konusu. Teybi bir gün geriye saralım. Arabayı geride bırakıp patikada yürümeye başladıktan birkaç kilometre sonra Anoush bas-çek tipi fotoğraf makinesini arabada unuttuğunu fark etti ve geri dönüp bir koşu makineyi almak istedi. Benim de hiç vakit kaybedesim yok bu arada. &#8220;_E benim fotoğraf makinem ile çekersin_&#8221; dedim. &#8220;_Ama sen siliyorsun onları hep_&#8221; dedi. Haklı kız :( &#8220;_O zaman_,&#8221; dedim, &#8220;_önümüzdeki 5 gün için sana tam 20 fotoğraf kredisi veriyorum. İstediğin 20 fotoğrafı sorgusuz sualsiz çekeceğim, sonra da silmeden sana teslim edeceğim. Ne dersin?_&#8220;. &#8220;_Anlaştık :)_&#8220;. Medeni iki insan gibi tokalaştık ve yürümeye devam ettik. Bu yüzden dereyse dere, martıysa martı, kayıksa kayık. Çekeceğim. Bu yüzden Anoush&#8217;un &#8220;dere fotoğrafı&#8221; talimatı üzerine fotoğraf makinemi elime aldım ve aşağıdaki fotoğrafı çektim:
 
-<img class="aligncenter size-full wp-image-2949" alt="apa-20" src="{{ site.baseurl }}/images/operasyon-merene-fotograf-makinesi-almacilik-apa-20.jpg" width="900" height="599" />
+<img class="aligncenter size-full wp-image-2949" alt="apa-20" src="{{ site.baseurl }}/images/operasyon-merene-fotograf-makinesi-almacilik-apa-20.jpg" width="900" />
 
 O an bilmediğim şey ise bu fotoğrafın bu makine ile çektiğim son fotoğraf olacağı idi.
 
@@ -110,13 +110,13 @@ Bu aşamada sol elimde fotoğraf makinesini tutuyorum, sağ elim ise epey ağır
 
 Bunları geçen gün arkadaşımdan ödünç aldığım makine ile çektim:
 
-<img class="aligncenter size-full wp-image-2950" alt="d700-1" src="{{ site.baseurl }}/images/operasyon-merene-fotograf-makinesi-almacilik-d700-1.jpg" width="900" height="602" />
+<img class="aligncenter size-full wp-image-2950" alt="d700-1" src="{{ site.baseurl }}/images/operasyon-merene-fotograf-makinesi-almacilik-d700-1.jpg" width="900" />
 
-<img class="aligncenter size-full wp-image-2951" alt="d700-2" src="{{ site.baseurl }}/images/operasyon-merene-fotograf-makinesi-almacilik-d700-2.jpg" width="900" height="602" />
+<img class="aligncenter size-full wp-image-2951" alt="d700-2" src="{{ site.baseurl }}/images/operasyon-merene-fotograf-makinesi-almacilik-d700-2.jpg" width="900" />
 
 Lensin diyaframı yerinden çıkmış durumda. Bütün yüzükler birbirine geçmiş, plastik hazne boydan boya çatlamış. Lens tamamen meftah. Fakat işin daha acısı elbette gövdenin akıbeti:
 
-<img class="aligncenter size-full wp-image-2952" alt="d700-4" src="{{ site.baseurl }}/images/operasyon-merene-fotograf-makinesi-almacilik-d700-4.jpg" width="900" height="602" />
+<img class="aligncenter size-full wp-image-2952" alt="d700-4" src="{{ site.baseurl }}/images/operasyon-merene-fotograf-makinesi-almacilik-d700-4.jpg" width="900" />
 
 Çarpmanın etkis ile ayna rayını kırmış. Dahası, makine On/Off düğmesine tepki vermiyor. Velhasılı dağ gibi Nikon D700 de sizlere ömür.
 

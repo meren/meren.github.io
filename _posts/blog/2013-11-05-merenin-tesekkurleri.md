@@ -66,7 +66,7 @@ Bu yaşıma geldim, hâlâ arada bir düşünüyor, madem benim için bu kadar e
 
 Anlayacağınız, benim için sizlerden fotoğraf makinesi istememin, sizlerin de bana &#8220;_hayır_&#8221; dememiş olmasının beni bu kadar derinden etkilemesinin bir tarihçesi var. Bu işe girişirken hiç hesap etmemiştim, fakat dediğim gibi, insan yolculuğu boyunca kendisi ve diğerleri ile ilgili en enteresan cevaplara hep en beklenmedik yerlerde denk geliyor. Mevzu ile ilgisi yok, ve bir Reebok Pump değil, fakat fotoğraf makinem ne kadar cici görün diye koyuyorum, bu Woods Hole&#8217;daki eviminin önünde Sonbahar:
 
-<img class="aligncenter size-full wp-image-2980" alt="d610-test-1" src="{{ site.baseurl }}/images/merenin-tesekkurleri-d610-test-1.jpg" width="900" height="506" />
+<img class="aligncenter size-full wp-image-2980" alt="d610-test-1" src="{{ site.baseurl }}/images/merenin-tesekkurleri-d610-test-1.jpg" width="900" />
 
 <p style="text-align: center;">
   ***
@@ -96,11 +96,11 @@ Yaz kızım. Bir. Mithat Çalışal. Ankara Eryaman&#8217;da komşumuzdu Mithat 
 
 Bu yolun bir tarafı:
 
-<img class="aligncenter size-full wp-image-2983" alt="d610-test-3" src="{{ site.baseurl }}/images/merenin-tesekkurleri-d610-test-3.jpg" width="900" height="506" />
+<img class="aligncenter size-full wp-image-2983" alt="d610-test-3" src="{{ site.baseurl }}/images/merenin-tesekkurleri-d610-test-3.jpg" width="900" />
 
 Bu da diğer tarafı:
 
-<img class="aligncenter size-full wp-image-2981" alt="d610-test-2" src="{{ site.baseurl }}/images/merenin-tesekkurleri-d610-test-2.jpg" width="900" height="506" />
+<img class="aligncenter size-full wp-image-2981" alt="d610-test-2" src="{{ site.baseurl }}/images/merenin-tesekkurleri-d610-test-2.jpg" width="900" />
 
 Böyle.
 
