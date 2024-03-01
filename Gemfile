@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-gem "jekyll", ">= 3.6.3"
 gem "kramdown", ">= 2.3.0"
 gem "kramdown-parser-gfm"
 gem "ffi", ">= 1.9.24"
@@ -11,3 +10,5 @@ gem 'unidecode'
 gem 'rouge'
 gem 'jekyll-redirect-from'
 gem 'jekyll-gist'
+
+gem "jekyll", "~> 3.9"

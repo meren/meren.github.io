@@ -109,7 +109,7 @@ PLATFORMS
 
 DEPENDENCIES
   ffi (>= 1.9.24)
-  jekyll (>= 3.6.3)
+  jekyll (~> 3.9)
   jekyll-gist
   jekyll-redirect-from
   jekyll-sitemap
