@@ -26,13 +26,13 @@ tags:
 ---
 _Kaptanın seyir defteri, 7 Kasım 2012: Seçeneklerim ve ümidim hızla tükeniyor. Artık dışarıdan bir yardım gelmeyeceğini kabullendim._
 
-__Kaptanın seyir defteri, 8 Kasım 2012: _Büyük ümitlerle hazırlandığım taarruzlarım da netice vermeyince geçtiğimiz bir haftalık süreçte evin geri kalanındaki kontrolümü tamamen yitirdim. Kimseye dargın değilim, fakat i_şin bu noktaya varacağını öngöremediğim_ için zaman zaman kendime dargın hissediyorum. Öte yandan ödediğim bedeli düşündüğümde kendimi karşıma almak, başını omuzuma koyup &#8216;boşver, affediyorum seni&#8217; diyesim geliyor._
+_Kaptanın seyir defteri, 8 Kasım 2012: _Büyük ümitlerle hazırlandığım taarruzlarım da netice vermeyince geçtiğimiz bir haftalık süreçte evin geri kalanındaki kontrolümü tamamen yitirdim. Kimseye dargın değilim, fakat i_şin bu noktaya varacağını öngöremediğim_ için zaman zaman kendime dargın hissediyorum. Öte yandan ödediğim bedeli düşündüğümde kendimi karşıma almak, başını omuzuma koyup &#8216;boşver, affediyorum seni&#8217; diyesim geliyor._
 
-__Kaptanın seyir defteri, 9 Kasım 2012: _Tüm evin bana ait olduğu günlerin solgun hatıralar her geçen gün daha da ihtişamlı görünüyor gözüme. Tüm evden geriye bir tek odam kaldı. Odam son kalem. Ve odam için sonuna kadar mücadele etmeye kararlıyım._
+_Kaptanın seyir defteri, 9 Kasım 2012: _Tüm evin bana ait olduğu günlerin solgun hatıralar her geçen gün daha da ihtişamlı görünüyor gözüme. Tüm evden geriye bir tek odam kaldı. Odam son kalem. Ve odam için sonuna kadar mücadele etmeye kararlıyım._
 
-__Kaptanın seyir defteri, 10 Kasım 2012: _Geçen günlerde şiddeti iyiden iyiye artan çarpışmalar, ve düşmanın taarruz san&#8217;atındaki yaratıcılığı, bana &#8216;alan savunmasının&#8217; kalan tek alternatifim olduğunu gösterdi. Şu an daha fazla yazamayacağım._
+_Kaptanın seyir defteri, 10 Kasım 2012: _Geçen günlerde şiddeti iyiden iyiye artan çarpışmalar, ve düşmanın taarruz san&#8217;atındaki yaratıcılığı, bana &#8216;alan savunmasının&#8217; kalan tek alternatifim olduğunu gösterdi. Şu an daha fazla yazamayacağım._
 
-__Kaptanın seyir defteri, 11 Kasım 2012: _Gurur yapacak lüksüm yok, evin geri kalanı da artık umurumda değil. Bugün elimde kalan son materyalleri ve enerji kırıntılarını kullanarak savunma odaklı hazin bir bariyer inşa ettim. Elbette düşmanın durumu fark etmesi hiç zaman almadı. Artık gözlerinin içine bakmaktan korkmuyorum._
+_Kaptanın seyir defteri, 11 Kasım 2012: _Gurur yapacak lüksüm yok, evin geri kalanı da artık umurumda değil. Bugün elimde kalan son materyalleri ve enerji kırıntılarını kullanarak savunma odaklı hazin bir bariyer inşa ettim. Elbette düşmanın durumu fark etmesi hiç zaman almadı. Artık gözlerinin içine bakmaktan korkmuyorum._
 
 <table width="100%" border="0">
   <tr>
@@ -42,7 +42,7 @@ __Kaptanın seyir defteri, 11 Kasım 2012: _Gurur yapacak lüksüm yok, evin ge
   </tr>
 </table>
 
-_Acınası bariyerim beni ne kadar koruyabilir bilemiyorum. Fakat düşmanın son zamanlarda sık sık başvurduğu &#8220;gece saat 4&#8217;te odaya girip bardakta ıslattığı patilerini Meren&#8217;in yüzüne koyma&#8221; saldırısı kadar yaratıcı yeni bir şeyler bulup bariyerimi alt edeceğinden hiç şüphem yok. B__ariyerin arkası şimdilik sakin. Bununla beraber galibi belli olan bir mücadele içinde çaresizce çırpınıyor olduğumun, günlerimin sayılı olduğunun da farkındayım. _Pozitif düşüncelere yoğunlaşmaya çalışıyorum. ___Eğer bir daha yazma şansım olmazsa şunu hatırlayın ne olur: ben de sizleri çok sevdim. Dilerseniz benim için Pink Floyd&#8217;dan &#8220;[Hey You](http://www.youtube.com/watch?v=QuR5KukeCus)&#8221; çalıp, mezar taşıma da şöyle yazın:_
+_Acınası bariyerim beni ne kadar koruyabilir bilemiyorum. Fakat düşmanın son zamanlarda sık sık başvurduğu &#8220;gece saat 4&#8217;te odaya girip bardakta ıslattığı patilerini Meren&#8217;in yüzüne koyma&#8221; saldırısı kadar yaratıcı yeni bir şeyler bulup bariyerimi alt edeceğinden hiç şüphem yok. B_ariyerin arkası şimdilik sakin. Bununla beraber galibi belli olan bir mücadele içinde çaresizce çırpınıyor olduğumun, günlerimin sayılı olduğunun da farkındayım. _Pozitif düşüncelere yoğunlaşmaya çalışıyorum. _Eğer bir daha yazma şansım olmazsa şunu hatırlayın ne olur: ben de sizleri çok sevdim. Dilerseniz benim için Pink Floyd&#8217;dan &#8220;[Hey You](http://www.youtube.com/watch?v=QuR5KukeCus)&#8221; çalıp, mezar taşıma da şöyle yazın:_
 
 > _Everything was beautiful and nothing hurt (except the cat)._
 
